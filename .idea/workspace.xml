@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="6task">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ЕГЭ инфа.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/16.53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/16task(47).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/16task(49).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/72.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/75.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/85.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2task.py" beforeDir="false" afterPath="$PROJECT_DIR$/2task.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="16task">
+      <change afterPath="$PROJECT_DIR$/pravila/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pravila/sumцифр.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16taske/16.53.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/16.53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16taske/55.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16taske/75.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16taske/85.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/85.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.12 task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16-47.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16.53.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16task(47).executor&quot;: &quot;Run&quot;,
-    &quot;Python.16task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.72.executor&quot;: &quot;Run&quot;,
-    &quot;Python.75.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.12 task.executor": "Run",
+    "Python.16-47.executor": "Run",
+    "Python.16.53.executor": "Run",
+    "Python.16task(47).executor": "Run",
+    "Python.16task.executor": "Run",
+    "Python.2task.executor": "Run",
+    "Python.55.executor": "Run",
+    "Python.6task.executor": "Run",
+    "Python.72.executor": "Run",
+    "Python.75.executor": "Run",
+    "Python.85.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.sumцифр.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\pravila" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="2task" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ЕГЭ инфа" />
@@ -134,12 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1731753902284</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="16task">
+      <option name="closed" value="true" />
+      <created>1737286455507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737286455507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2task" />
     <MESSAGE value="6task" />
-    <option name="LAST_COMMIT_MESSAGE" value="6task" />
+    <MESSAGE value="16task" />
+    <option name="LAST_COMMIT_MESSAGE" value="16task" />
   </component>
 </project>
