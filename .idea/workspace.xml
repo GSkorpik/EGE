@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="исправления и добавление правилл">
-      <change afterPath="$PROJECT_DIR$/16taske/98.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/99.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pravila/множество.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/115.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pravila/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/вечноя ветвь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
     "Python.16-47.executor": "Run",
     "Python.16.53.executor": "Run",
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737290740803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="исправления и добавление правилл">
+      <option name="closed" value="true" />
+      <created>1737292170466</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737292170466</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
