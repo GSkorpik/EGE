@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="исправления и добавление правилл">
-      <change afterPath="$PROJECT_DIR$/16taske/115.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pravila/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/вечноя ветвь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/213.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pravila/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pravila/вечноя ветвь.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/вечная ветвь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +44,15 @@
   "keyToString": {
     "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
+    "Python.125.executor": "Run",
+    "Python.131.executor": "Run",
+    "Python.132.executor": "Run",
+    "Python.144.executor": "Run",
     "Python.16-47.executor": "Run",
     "Python.16.53.executor": "Run",
     "Python.16task(47).executor": "Run",
     "Python.16task.executor": "Run",
+    "Python.213.executor": "Run",
     "Python.2task.executor": "Run",
     "Python.55.executor": "Run",
     "Python.6task.executor": "Run",
@@ -155,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737292170466</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="исправления и добавление правилл">
+      <option name="closed" value="true" />
+      <created>1737293590242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737293590242</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
