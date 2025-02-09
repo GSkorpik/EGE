@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="исправления и добавление правилл">
-      <change afterPath="$PROJECT_DIR$/16taske/125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/213.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pravila/text.txt" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="решение 16 задания">
+      <change afterPath="$PROJECT_DIR$/14/139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/216.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/224.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/255.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pravila/перевод чисел в сист исчесл.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pravila/вечноя ветвь.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/вечная ветвь.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +47,32 @@
     "Python.125.executor": "Run",
     "Python.131.executor": "Run",
     "Python.132.executor": "Run",
+    "Python.139.executor": "Run",
     "Python.144.executor": "Run",
+    "Python.157.executor": "Run",
     "Python.16-47.executor": "Run",
     "Python.16.53.executor": "Run",
+    "Python.168.executor": "Run",
     "Python.16task(47).executor": "Run",
     "Python.16task.executor": "Run",
+    "Python.176.executor": "Run",
+    "Python.18.executor": "Run",
     "Python.213.executor": "Run",
+    "Python.216.executor": "Run",
+    "Python.224.executor": "Run",
+    "Python.255.executor": "Run",
     "Python.2task.executor": "Run",
     "Python.55.executor": "Run",
     "Python.6task.executor": "Run",
     "Python.72.executor": "Run",
     "Python.75.executor": "Run",
     "Python.85.executor": "Run",
+    "Python.89.executor": "Run",
     "Python.98.executor": "Run",
     "Python.99.executor": "Run",
     "Python.main.executor": "Run",
     "Python.sumцифр.executor": "Run",
+    "Python.перевод чисел в сист исчесл.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -176,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737293590242</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="решение 16 задания">
+      <option name="closed" value="true" />
+      <created>1737897893593</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897893593</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +202,7 @@
     <MESSAGE value="6task" />
     <MESSAGE value="16task" />
     <MESSAGE value="исправления и добавление правилл" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправления и добавление правилл" />
+    <MESSAGE value="решение 16 задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 16 задания" />
   </component>
 </project>
