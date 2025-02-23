@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="14 задание">
-      <change afterPath="$PROJECT_DIR$/14/256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/257.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/264.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/266.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/268.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/269.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/271.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/278.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/290.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/313.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/314.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/319.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/321.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/327.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/338.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/346.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/351.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/357.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/361.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/367.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +74,17 @@
     "Python.290.executor": "Run",
     "Python.2task.executor": "Run",
     "Python.313.executor": "Run",
+    "Python.314.executor": "Run",
+    "Python.316.executor": "Run",
+    "Python.319.executor": "Run",
+    "Python.321.executor": "Run",
+    "Python.327.executor": "Run",
+    "Python.338.executor": "Run",
+    "Python.346.executor": "Run",
+    "Python.351.executor": "Run",
+    "Python.357.executor": "Run",
+    "Python.361.executor": "Run",
+    "Python.367.executor": "Run",
     "Python.55.executor": "Run",
     "Python.6task.executor": "Run",
     "Python.72.executor": "Run",
@@ -225,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739108557817</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="14 задание">
+      <option name="closed" value="true" />
+      <created>1739713076488</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739713076488</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
