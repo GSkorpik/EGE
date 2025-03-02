@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="14 задание">
-      <change afterPath="$PROJECT_DIR$/14/314.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/316.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/319.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/321.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/327.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/338.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/346.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/351.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/357.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/361.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/367.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/476.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/479.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/482.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/483.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/487.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,65 +37,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.115.executor": "Run",
-    "Python.12 task.executor": "Run",
-    "Python.125.executor": "Run",
-    "Python.131.executor": "Run",
-    "Python.132.executor": "Run",
-    "Python.139.executor": "Run",
-    "Python.144.executor": "Run",
-    "Python.157.executor": "Run",
-    "Python.16-47.executor": "Run",
-    "Python.16.53.executor": "Run",
-    "Python.168.executor": "Run",
-    "Python.16task(47).executor": "Run",
-    "Python.16task.executor": "Run",
-    "Python.176.executor": "Run",
-    "Python.18.executor": "Run",
-    "Python.213.executor": "Run",
-    "Python.216.executor": "Run",
-    "Python.224.executor": "Run",
-    "Python.255.executor": "Run",
-    "Python.256.executor": "Run",
-    "Python.257.executor": "Run",
-    "Python.264.executor": "Run",
-    "Python.266.executor": "Run",
-    "Python.268.executor": "Run",
-    "Python.269.executor": "Run",
-    "Python.271.executor": "Run",
-    "Python.278.executor": "Run",
-    "Python.290.executor": "Run",
-    "Python.2task.executor": "Run",
-    "Python.313.executor": "Run",
-    "Python.314.executor": "Run",
-    "Python.316.executor": "Run",
-    "Python.319.executor": "Run",
-    "Python.321.executor": "Run",
-    "Python.327.executor": "Run",
-    "Python.338.executor": "Run",
-    "Python.346.executor": "Run",
-    "Python.351.executor": "Run",
-    "Python.357.executor": "Run",
-    "Python.361.executor": "Run",
-    "Python.367.executor": "Run",
-    "Python.55.executor": "Run",
-    "Python.6task.executor": "Run",
-    "Python.72.executor": "Run",
-    "Python.75.executor": "Run",
-    "Python.85.executor": "Run",
-    "Python.89.executor": "Run",
-    "Python.98.executor": "Run",
-    "Python.99.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.sumцифр.executor": "Run",
-    "Python.перевод чисел в сист исчесл.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/GSkorpik/PycharmProjects/ЕГЭ инфа/14"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.125.executor&quot;: &quot;Run&quot;,
+    &quot;Python.131.executor&quot;: &quot;Run&quot;,
+    &quot;Python.132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.139.executor&quot;: &quot;Run&quot;,
+    &quot;Python.144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.168.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task(47).executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.176.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.213.executor&quot;: &quot;Run&quot;,
+    &quot;Python.216.executor&quot;: &quot;Run&quot;,
+    &quot;Python.224.executor&quot;: &quot;Run&quot;,
+    &quot;Python.255.executor&quot;: &quot;Run&quot;,
+    &quot;Python.256.executor&quot;: &quot;Run&quot;,
+    &quot;Python.257.executor&quot;: &quot;Run&quot;,
+    &quot;Python.264.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.269.executor&quot;: &quot;Run&quot;,
+    &quot;Python.271.executor&quot;: &quot;Run&quot;,
+    &quot;Python.278.executor&quot;: &quot;Run&quot;,
+    &quot;Python.286.executor&quot;: &quot;Run&quot;,
+    &quot;Python.290.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.313.executor&quot;: &quot;Run&quot;,
+    &quot;Python.314.executor&quot;: &quot;Run&quot;,
+    &quot;Python.316.executor&quot;: &quot;Run&quot;,
+    &quot;Python.319.executor&quot;: &quot;Run&quot;,
+    &quot;Python.321.executor&quot;: &quot;Run&quot;,
+    &quot;Python.327.executor&quot;: &quot;Run&quot;,
+    &quot;Python.338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.346.executor&quot;: &quot;Run&quot;,
+    &quot;Python.351.executor&quot;: &quot;Run&quot;,
+    &quot;Python.357.executor&quot;: &quot;Run&quot;,
+    &quot;Python.361.executor&quot;: &quot;Run&quot;,
+    &quot;Python.367.executor&quot;: &quot;Run&quot;,
+    &quot;Python.476.executor&quot;: &quot;Run&quot;,
+    &quot;Python.479.executor&quot;: &quot;Run&quot;,
+    &quot;Python.482.executor&quot;: &quot;Run&quot;,
+    &quot;Python.483.executor&quot;: &quot;Run&quot;,
+    &quot;Python.486.executor&quot;: &quot;Run&quot;,
+    &quot;Python.487.executor&quot;: &quot;Run&quot;,
+    &quot;Python.55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.85.executor&quot;: &quot;Run&quot;,
+    &quot;Python.89.executor&quot;: &quot;Run&quot;,
+    &quot;Python.98.executor&quot;: &quot;Run&quot;,
+    &quot;Python.99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumцифр.executor&quot;: &quot;Run&quot;,
+    &quot;Python.перевод чисел в сист исчесл.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GSkorpik/PycharmProjects/ЕГЭ инфа/14&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
@@ -245,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739713076488</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="14 задание">
+      <option name="closed" value="true" />
+      <created>1740317173664</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740317173664</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
