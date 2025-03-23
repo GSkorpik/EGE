@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="14 задание">
-      <change afterPath="$PROJECT_DIR$/14/476.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/479.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/482.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/483.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/486.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/487.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/345.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/346.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/348.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/354.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/365.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/370.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +55,19 @@
     &quot;Python.125.executor&quot;: &quot;Run&quot;,
     &quot;Python.131.executor&quot;: &quot;Run&quot;,
     &quot;Python.132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.138.executor&quot;: &quot;Run&quot;,
     &quot;Python.139.executor&quot;: &quot;Run&quot;,
     &quot;Python.144.executor&quot;: &quot;Run&quot;,
     &quot;Python.157.executor&quot;: &quot;Run&quot;,
     &quot;Python.16-47.executor&quot;: &quot;Run&quot;,
     &quot;Python.16.53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.161.executor&quot;: &quot;Run&quot;,
     &quot;Python.168.executor&quot;: &quot;Run&quot;,
     &quot;Python.16task(47).executor&quot;: &quot;Run&quot;,
     &quot;Python.16task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.171.executor&quot;: &quot;Run&quot;,
+    &quot;Python.174.executor&quot;: &quot;Run&quot;,
     &quot;Python.176.executor&quot;: &quot;Run&quot;,
     &quot;Python.18.executor&quot;: &quot;Run&quot;,
     &quot;Python.213.executor&quot;: &quot;Run&quot;,
@@ -69,6 +85,7 @@
     &quot;Python.286.executor&quot;: &quot;Run&quot;,
     &quot;Python.290.executor&quot;: &quot;Run&quot;,
     &quot;Python.2task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30090.executor&quot;: &quot;Run&quot;,
     &quot;Python.313.executor&quot;: &quot;Run&quot;,
     &quot;Python.314.executor&quot;: &quot;Run&quot;,
     &quot;Python.316.executor&quot;: &quot;Run&quot;,
@@ -76,11 +93,17 @@
     &quot;Python.321.executor&quot;: &quot;Run&quot;,
     &quot;Python.327.executor&quot;: &quot;Run&quot;,
     &quot;Python.338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.344.executor&quot;: &quot;Run&quot;,
+    &quot;Python.345.executor&quot;: &quot;Run&quot;,
     &quot;Python.346.executor&quot;: &quot;Run&quot;,
+    &quot;Python.348.executor&quot;: &quot;Run&quot;,
     &quot;Python.351.executor&quot;: &quot;Run&quot;,
+    &quot;Python.354.executor&quot;: &quot;Run&quot;,
     &quot;Python.357.executor&quot;: &quot;Run&quot;,
     &quot;Python.361.executor&quot;: &quot;Run&quot;,
+    &quot;Python.365.executor&quot;: &quot;Run&quot;,
     &quot;Python.367.executor&quot;: &quot;Run&quot;,
+    &quot;Python.370.executor&quot;: &quot;Run&quot;,
     &quot;Python.476.executor&quot;: &quot;Run&quot;,
     &quot;Python.479.executor&quot;: &quot;Run&quot;,
     &quot;Python.482.executor&quot;: &quot;Run&quot;,
@@ -255,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740317173664</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="14 задание">
+      <option name="closed" value="true" />
+      <created>1740917056339</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740917056339</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
