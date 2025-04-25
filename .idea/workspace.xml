@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="14 задание">
-      <change afterPath="$PROJECT_DIR$/30090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/174.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/344.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/345.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/346.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/348.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/354.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/365.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/370.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="комит">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +33,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.108.executor&quot;: &quot;Run&quot;,
+    &quot;Python.113.executor&quot;: &quot;Run&quot;,
     &quot;Python.115.executor&quot;: &quot;Run&quot;,
     &quot;Python.12 task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
     &quot;Python.125.executor&quot;: &quot;Run&quot;,
     &quot;Python.131.executor&quot;: &quot;Run&quot;,
     &quot;Python.132.executor&quot;: &quot;Run&quot;,
     &quot;Python.134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.135.executor&quot;: &quot;Run&quot;,
     &quot;Python.138.executor&quot;: &quot;Run&quot;,
     &quot;Python.139.executor&quot;: &quot;Run&quot;,
     &quot;Python.144.executor&quot;: &quot;Run&quot;,
@@ -65,6 +52,7 @@
     &quot;Python.161.executor&quot;: &quot;Run&quot;,
     &quot;Python.168.executor&quot;: &quot;Run&quot;,
     &quot;Python.16task(47).executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task(49).executor&quot;: &quot;Run&quot;,
     &quot;Python.16task.executor&quot;: &quot;Run&quot;,
     &quot;Python.171.executor&quot;: &quot;Run&quot;,
     &quot;Python.174.executor&quot;: &quot;Run&quot;,
@@ -104,12 +92,16 @@
     &quot;Python.365.executor&quot;: &quot;Run&quot;,
     &quot;Python.367.executor&quot;: &quot;Run&quot;,
     &quot;Python.370.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.47.executor&quot;: &quot;Run&quot;,
     &quot;Python.476.executor&quot;: &quot;Run&quot;,
     &quot;Python.479.executor&quot;: &quot;Run&quot;,
     &quot;Python.482.executor&quot;: &quot;Run&quot;,
     &quot;Python.483.executor&quot;: &quot;Run&quot;,
     &quot;Python.486.executor&quot;: &quot;Run&quot;,
     &quot;Python.487.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49.executor&quot;: &quot;Run&quot;,
     &quot;Python.55.executor&quot;: &quot;Run&quot;,
     &quot;Python.6task.executor&quot;: &quot;Run&quot;,
     &quot;Python.72.executor&quot;: &quot;Run&quot;,
@@ -121,9 +113,12 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.sumцифр.executor&quot;: &quot;Run&quot;,
     &quot;Python.перевод чисел в сист исчесл.executor&quot;: &quot;Run&quot;,
+    &quot;Python.шаблон.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/GSkorpik/PycharmProjects/ЕГЭ инфа/14&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ЕГЭ инфа&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -286,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740917056339</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="5 задание">
+      <option name="closed" value="true" />
+      <created>1742736696573</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742736696573</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,6 +300,8 @@
     <MESSAGE value="решение 16 задания" />
     <MESSAGE value="Добавление правил" />
     <MESSAGE value="14 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 задание" />
+    <MESSAGE value="5 задание" />
+    <MESSAGE value="комит" />
+    <option name="LAST_COMMIT_MESSAGE" value="комит" />
   </component>
 </project>
