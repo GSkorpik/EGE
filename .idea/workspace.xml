@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="комит">
-      <change afterPath="$PROJECT_DIR$/5/160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/198.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/230.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/233.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/320.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="5task">
+      <change afterPath="$PROJECT_DIR$/5/342.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/347.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/355.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/357.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/366.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/369.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,101 +37,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.108.executor": "Run",
-    "Python.113.executor": "Run",
-    "Python.115.executor": "Run",
-    "Python.12 task.executor": "Run",
-    "Python.123.executor": "Run",
-    "Python.125.executor": "Run",
-    "Python.131.executor": "Run",
-    "Python.132.executor": "Run",
-    "Python.134.executor": "Run",
-    "Python.135.executor": "Run",
-    "Python.138.executor": "Run",
-    "Python.139.executor": "Run",
-    "Python.144.executor": "Run",
-    "Python.157.executor": "Run",
-    "Python.16-47.executor": "Run",
-    "Python.16.53.executor": "Run",
-    "Python.160.executor": "Run",
-    "Python.161.executor": "Run",
-    "Python.168.executor": "Run",
-    "Python.16task(47).executor": "Run",
-    "Python.16task(49).executor": "Run",
-    "Python.16task.executor": "Run",
-    "Python.171.executor": "Run",
-    "Python.172.executor": "Run",
-    "Python.174.executor": "Run",
-    "Python.176.executor": "Run",
-    "Python.18.executor": "Run",
-    "Python.198.executor": "Run",
-    "Python.213.executor": "Run",
-    "Python.216.executor": "Run",
-    "Python.224.executor": "Run",
-    "Python.230.executor": "Run",
-    "Python.233.executor": "Run",
-    "Python.255.executor": "Run",
-    "Python.256.executor": "Run",
-    "Python.257.executor": "Run",
-    "Python.264.executor": "Run",
-    "Python.266.executor": "Run",
-    "Python.268.executor": "Run",
-    "Python.269.executor": "Run",
-    "Python.271.executor": "Run",
-    "Python.278.executor": "Run",
-    "Python.286.executor": "Run",
-    "Python.290.executor": "Run",
-    "Python.2task.executor": "Run",
-    "Python.30090.executor": "Run",
-    "Python.313.executor": "Run",
-    "Python.314.executor": "Run",
-    "Python.316.executor": "Run",
-    "Python.319.executor": "Run",
-    "Python.321.executor": "Run",
-    "Python.327.executor": "Run",
-    "Python.338.executor": "Run",
-    "Python.344.executor": "Run",
-    "Python.345.executor": "Run",
-    "Python.346.executor": "Run",
-    "Python.348.executor": "Run",
-    "Python.351.executor": "Run",
-    "Python.354.executor": "Run",
-    "Python.357.executor": "Run",
-    "Python.361.executor": "Run",
-    "Python.365.executor": "Run",
-    "Python.367.executor": "Run",
-    "Python.370.executor": "Run",
-    "Python.40.executor": "Run",
-    "Python.44.executor": "Run",
-    "Python.47.executor": "Run",
-    "Python.476.executor": "Run",
-    "Python.479.executor": "Run",
-    "Python.482.executor": "Run",
-    "Python.483.executor": "Run",
-    "Python.486.executor": "Run",
-    "Python.487.executor": "Run",
-    "Python.49.executor": "Run",
-    "Python.55.executor": "Run",
-    "Python.6task.executor": "Run",
-    "Python.72.executor": "Run",
-    "Python.75.executor": "Run",
-    "Python.85.executor": "Run",
-    "Python.89.executor": "Run",
-    "Python.98.executor": "Run",
-    "Python.99.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.sumцифр.executor": "Run",
-    "Python.перевод чисел в сист исчесл.executor": "Run",
-    "Python.шаблон.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/ЕГЭ инфа/5",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.108.executor&quot;: &quot;Run&quot;,
+    &quot;Python.113.executor&quot;: &quot;Run&quot;,
+    &quot;Python.115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.125.executor&quot;: &quot;Run&quot;,
+    &quot;Python.131.executor&quot;: &quot;Run&quot;,
+    &quot;Python.132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.135.executor&quot;: &quot;Run&quot;,
+    &quot;Python.138.executor&quot;: &quot;Run&quot;,
+    &quot;Python.139.executor&quot;: &quot;Run&quot;,
+    &quot;Python.144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16-47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.160.executor&quot;: &quot;Run&quot;,
+    &quot;Python.161.executor&quot;: &quot;Run&quot;,
+    &quot;Python.168.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task(47).executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task(49).executor&quot;: &quot;Run&quot;,
+    &quot;Python.16task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.171.executor&quot;: &quot;Run&quot;,
+    &quot;Python.172.executor&quot;: &quot;Run&quot;,
+    &quot;Python.174.executor&quot;: &quot;Run&quot;,
+    &quot;Python.176.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.198.executor&quot;: &quot;Run&quot;,
+    &quot;Python.213.executor&quot;: &quot;Run&quot;,
+    &quot;Python.216.executor&quot;: &quot;Run&quot;,
+    &quot;Python.224.executor&quot;: &quot;Run&quot;,
+    &quot;Python.230.executor&quot;: &quot;Run&quot;,
+    &quot;Python.233.executor&quot;: &quot;Run&quot;,
+    &quot;Python.255.executor&quot;: &quot;Run&quot;,
+    &quot;Python.256.executor&quot;: &quot;Run&quot;,
+    &quot;Python.257.executor&quot;: &quot;Run&quot;,
+    &quot;Python.264.executor&quot;: &quot;Run&quot;,
+    &quot;Python.266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.268.executor&quot;: &quot;Run&quot;,
+    &quot;Python.269.executor&quot;: &quot;Run&quot;,
+    &quot;Python.271.executor&quot;: &quot;Run&quot;,
+    &quot;Python.278.executor&quot;: &quot;Run&quot;,
+    &quot;Python.286.executor&quot;: &quot;Run&quot;,
+    &quot;Python.290.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.313.executor&quot;: &quot;Run&quot;,
+    &quot;Python.314.executor&quot;: &quot;Run&quot;,
+    &quot;Python.316.executor&quot;: &quot;Run&quot;,
+    &quot;Python.319.executor&quot;: &quot;Run&quot;,
+    &quot;Python.320.executor&quot;: &quot;Run&quot;,
+    &quot;Python.321.executor&quot;: &quot;Run&quot;,
+    &quot;Python.327.executor&quot;: &quot;Run&quot;,
+    &quot;Python.338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.341.executor&quot;: &quot;Run&quot;,
+    &quot;Python.342.executor&quot;: &quot;Run&quot;,
+    &quot;Python.344.executor&quot;: &quot;Run&quot;,
+    &quot;Python.345.executor&quot;: &quot;Run&quot;,
+    &quot;Python.346.executor&quot;: &quot;Run&quot;,
+    &quot;Python.347.executor&quot;: &quot;Run&quot;,
+    &quot;Python.348.executor&quot;: &quot;Run&quot;,
+    &quot;Python.351.executor&quot;: &quot;Run&quot;,
+    &quot;Python.354.executor&quot;: &quot;Run&quot;,
+    &quot;Python.355.executor&quot;: &quot;Run&quot;,
+    &quot;Python.357.executor&quot;: &quot;Run&quot;,
+    &quot;Python.361.executor&quot;: &quot;Run&quot;,
+    &quot;Python.365.executor&quot;: &quot;Run&quot;,
+    &quot;Python.366.executor&quot;: &quot;Run&quot;,
+    &quot;Python.367.executor&quot;: &quot;Run&quot;,
+    &quot;Python.369.executor&quot;: &quot;Run&quot;,
+    &quot;Python.370.executor&quot;: &quot;Run&quot;,
+    &quot;Python.40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.476.executor&quot;: &quot;Run&quot;,
+    &quot;Python.479.executor&quot;: &quot;Run&quot;,
+    &quot;Python.482.executor&quot;: &quot;Run&quot;,
+    &quot;Python.483.executor&quot;: &quot;Run&quot;,
+    &quot;Python.486.executor&quot;: &quot;Run&quot;,
+    &quot;Python.487.executor&quot;: &quot;Run&quot;,
+    &quot;Python.49.executor&quot;: &quot;Run&quot;,
+    &quot;Python.55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.85.executor&quot;: &quot;Run&quot;,
+    &quot;Python.89.executor&quot;: &quot;Run&quot;,
+    &quot;Python.98.executor&quot;: &quot;Run&quot;,
+    &quot;Python.99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumцифр.executor&quot;: &quot;Run&quot;,
+    &quot;Python.перевод чисел в сист исчесл.executor&quot;: &quot;Run&quot;,
+    &quot;Python.шаблон.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ЕГЭ инфа/5&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ЕГЭ инфа\5" />
@@ -325,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745754127162</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="5task">
+      <option name="closed" value="true" />
+      <created>1747575076706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747575076706</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,6 +364,7 @@
     <MESSAGE value="14 задание" />
     <MESSAGE value="5 задание" />
     <MESSAGE value="комит" />
-    <option name="LAST_COMMIT_MESSAGE" value="комит" />
+    <MESSAGE value="5task" />
+    <option name="LAST_COMMIT_MESSAGE" value="5task" />
   </component>
 </project>
