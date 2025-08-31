@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/дз/60/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/60/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/60/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/60/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/60/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/60/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/п59/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/п59/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/п59/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/п59/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/результат.png" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="выполнение дз">
+      <change afterPath="$PROJECT_DIR$/5/307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/3_21402.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/9_21408.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз/п59/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/п59/3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +44,7 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.108.executor": "Run",
+    "Python.11.executor": "Run",
     "Python.113.executor": "Run",
     "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
@@ -103,6 +93,7 @@
     "Python.2task.executor": "Run",
     "Python.3.executor": "Run",
     "Python.30090.executor": "Run",
+    "Python.307.executor": "Run",
     "Python.313.executor": "Run",
     "Python.314.executor": "Run",
     "Python.316.executor": "Run",
@@ -166,6 +157,7 @@
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\дз\ссылка дз" />
       <recent name="D:\ЕГЭ инфа\дз" />
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\pravila" />
     </key>
@@ -370,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755781187874</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="выполнение дз">
+      <option name="closed" value="true" />
+      <created>1756636140008</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1756636140008</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,6 +396,7 @@
     <MESSAGE value="комит" />
     <MESSAGE value="5task" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="выполнение дз" />
+    <option name="LAST_COMMIT_MESSAGE" value="выполнение дз" />
   </component>
 </project>
