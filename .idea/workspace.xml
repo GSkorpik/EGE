@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="выполнение дз">
-      <change afterPath="$PROJECT_DIR$/5/307.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/3_21402.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/ссылка дз/9_21408.xlsx" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="31/08">
+      <change afterPath="$PROJECT_DIR$/5/203.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/371.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/373.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/375.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/382.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/385.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/386.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/390.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/392.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/394.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/395.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/401.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/перевод в сист исч больше 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз/п59/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз/п59/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14/255.py" beforeDir="false" afterPath="$PROJECT_DIR$/14/255.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/369.py" beforeDir="false" afterPath="$PROJECT_DIR$/5/369.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pravila/перевод чисел в сист исчесл.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/перевод чисел в сист исчесл.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +129,19 @@
     "Python.367.executor": "Run",
     "Python.369.executor": "Run",
     "Python.370.executor": "Run",
+    "Python.371.executor": "Run",
+    "Python.373.executor": "Run",
+    "Python.375.executor": "Run",
+    "Python.382.executor": "Run",
+    "Python.385.executor": "Run",
+    "Python.386.executor": "Run",
+    "Python.390.executor": "Run",
+    "Python.392.executor": "Run",
+    "Python.394.executor": "Run",
+    "Python.395.executor": "Run",
     "Python.4.executor": "Run",
     "Python.40.executor": "Run",
+    "Python.401.executor": "Run",
     "Python.44.executor": "Run",
     "Python.47.executor": "Run",
     "Python.476.executor": "Run",
@@ -163,6 +184,28 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="255" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ инфа" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/255.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2task" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ЕГЭ инфа" />
       <option name="ENV_FILES" value="" />
@@ -185,6 +228,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.255" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -370,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756636140008</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="31/08">
+      <option name="closed" value="true" />
+      <created>1756647303044</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1756647303044</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,6 +453,7 @@
     <MESSAGE value="5task" />
     <MESSAGE value="..." />
     <MESSAGE value="выполнение дз" />
-    <option name="LAST_COMMIT_MESSAGE" value="выполнение дз" />
+    <MESSAGE value="31/08" />
+    <option name="LAST_COMMIT_MESSAGE" value="31/08" />
   </component>
 </project>

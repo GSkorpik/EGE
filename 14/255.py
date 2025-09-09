@@ -9,11 +9,10 @@ for n in range(2,11):
         a//=n
         s+=x
 
-'''
     maxs=max(s,maxs)
     if maxs==s:
         maxn=n
-'''
+
 
     if s > maxs:
         maxs=s

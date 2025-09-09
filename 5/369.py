@@ -6,22 +6,24 @@ def f(n):
         return f(n//13)+a[n%13]
 
 
-su=0
-su1=0
+
+
 rm=0
 a=[]
-for n in range(1,1000):
+for n in range(1,100):
     b=f(n)
+    su = 0
     for s in b:
         su+=int(s,13)
-    b=b+str(su%13)
+    b=b+f(su%13)
+
+    su1 =0
     for s in b:
         su1+=int(s,13)
-    b = b + str(su1 % 13)
+    b = b + f(su1 % 13)
     r=int(b,13)
-
+    #print((f(n)),b,n,r)
     if r<6000 :
-        if r>=rm:
-            rm=r
-            nm=n
-            print(nm,rm)
+        a.append((r,n))
+print(sorted(a,reverse=True)[0])
+
