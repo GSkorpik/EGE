@@ -4,10 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="5 задание">
-      <change afterPath="$PROJECT_DIR$/14/468.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/489.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/повторные/14.486.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="14 задание">
+      <change afterPath="$PROJECT_DIR$/14/329.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/333.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/393.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/408.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/409.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/423.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/444.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/456.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/491.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/503.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/510.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/512.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/518.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/525.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-21/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-21/148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-21/41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-21/48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/повторные/14.313.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/повторные/14.321.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/повторные/14.361.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/повторные/14.367.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +61,7 @@
     "Python.1.executor": "Run",
     "Python.108.executor": "Run",
     "Python.11.executor": "Run",
+    "Python.111.executor": "Run",
     "Python.113.executor": "Run",
     "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
@@ -53,6 +73,10 @@
     "Python.135.executor": "Run",
     "Python.138.executor": "Run",
     "Python.139.executor": "Run",
+    "Python.14.313.executor": "Run",
+    "Python.14.321.executor": "Run",
+    "Python.14.361.executor": "Run",
+    "Python.14.367.executor": "Run",
     "Python.14.486.executor": "Run",
     "Python.14.executor": "Run",
     "Python.144.executor": "Run",
@@ -107,6 +131,8 @@
     "Python.321.executor": "Run",
     "Python.326.executor": "Run",
     "Python.327.executor": "Run",
+    "Python.329.executor": "Run",
+    "Python.333.executor": "Run",
     "Python.338.executor": "Run",
     "Python.341.executor": "Run",
     "Python.342.executor": "Run",
@@ -133,12 +159,19 @@
     "Python.386.executor": "Run",
     "Python.390.executor": "Run",
     "Python.392.executor": "Run",
+    "Python.393.executor": "Run",
     "Python.394.executor": "Run",
     "Python.395.executor": "Run",
     "Python.4.executor": "Run",
     "Python.40.executor": "Run",
     "Python.401.executor": "Run",
+    "Python.408.executor": "Run",
+    "Python.409.executor": "Run",
+    "Python.41.executor": "Run",
+    "Python.423.executor": "Run",
     "Python.44.executor": "Run",
+    "Python.444.executor": "Run",
+    "Python.456.executor": "Run",
     "Python.468.executor": "Run",
     "Python.47.executor": "Run",
     "Python.476.executor": "Run",
@@ -149,7 +182,9 @@
     "Python.487.executor": "Run",
     "Python.489.executor": "Run",
     "Python.49.executor": "Run",
+    "Python.491.executor": "Run",
     "Python.5.executor": "Run",
+    "Python.503.executor": "Run",
     "Python.55.executor": "Run",
     "Python.6task.executor": "Run",
     "Python.7.executor": "Run",
@@ -180,6 +215,11 @@
       <recent name="D:\ЕГЭ инфа\дз" />
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\pravila" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="1+1" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -389,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757598409989</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="14 задание">
+      <option name="closed" value="true" />
+      <created>1757601325809</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757601325809</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,13 +458,13 @@
     <MESSAGE value="исправления и добавление правилл" />
     <MESSAGE value="решение 16 задания" />
     <MESSAGE value="Добавление правил" />
-    <MESSAGE value="14 задание" />
     <MESSAGE value="комит" />
     <MESSAGE value="5task" />
     <MESSAGE value="..." />
     <MESSAGE value="выполнение дз" />
     <MESSAGE value="31/08" />
     <MESSAGE value="5 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 задание" />
+    <MESSAGE value="14 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 задание" />
   </component>
 </project>
