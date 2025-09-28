@@ -18,12 +18,12 @@ k=0
 while True:
     b=[x for x in d(n) if p(x)]
     s=''.join(map(str,b))
-    if fnmatch(str(n), '10*29')==1:
+    if fnmatch(s, '10*29')==1:
         print(n,max(b))
-    k+=1
-    if k>=5:
-        break
-n+=1
+        k+=1
+        if k>=5:
+            break
+    n+=1
 
 
 '''
