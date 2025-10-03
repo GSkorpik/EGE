@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="25">
-      <change afterPath="$PROJECT_DIR$/25/245.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/254.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/278.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/274.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/280.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/287.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/328.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,13 +114,17 @@
     "Python.271.executor": "Run",
     "Python.274.executor": "Run",
     "Python.278.executor": "Run",
+    "Python.280.executor": "Run",
     "Python.286.executor": "Run",
+    "Python.287.executor": "Run",
     "Python.290.executor": "Run",
     "Python.292.executor": "Run",
+    "Python.297.executor": "Run",
     "Python.298.executor": "Run",
     "Python.2task.executor": "Run",
     "Python.3.executor": "Run",
     "Python.30090.executor": "Run",
+    "Python.305.executor": "Run",
     "Python.307.executor": "Run",
     "Python.308.executor": "Run",
     "Python.313.executor": "Run",
@@ -132,6 +138,7 @@
     "Python.321.executor": "Run",
     "Python.326.executor": "Run",
     "Python.327.executor": "Run",
+    "Python.328.executor": "Run",
     "Python.329.executor": "Run",
     "Python.333.executor": "Run",
     "Python.338.executor": "Run",
@@ -486,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759062307428</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="25">
+      <option name="closed" value="true" />
+      <created>1759409975947</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1759409975947</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
