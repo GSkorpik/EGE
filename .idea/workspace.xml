@@ -5,118 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/17/150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-199.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-202.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-204.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-205.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-243.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-257.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-271.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-272.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-273.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-274.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-275.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-276.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-277.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-278.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-281.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-282.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-288.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-290.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-292.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-294.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-295.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-296.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-297.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-298.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-299.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-300.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-301.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-302.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-303.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-304.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-316.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-324.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-328.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-332.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-333.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-335.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-336.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-338.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-339.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-340.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-341.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-342.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-343.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-344.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-345.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-346.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-352.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-353.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-354.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-360.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-361.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-362.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-363.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-365.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-366.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-367.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-369.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-370.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-374.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-375.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-376.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-377.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-378.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-379.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-380.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-381.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-382.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-383.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-384.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-385.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-386.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-387.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-388.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-390.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-399.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-401.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-402.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-403.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-404.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-407.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-408.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-409.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-410.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-411.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-418.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-426.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-428.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-432.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-433.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-434.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-435.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/17-9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/188.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/111.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17/114.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/80.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/80.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/17/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +78,8 @@
     "Python.143.executor": "Run",
     "Python.144.executor": "Run",
     "Python.150.executor": "Run",
+    "Python.151.executor": "Run",
+    "Python.152.executor": "Run",
     "Python.153.executor": "Run",
     "Python.154.executor": "Run",
     "Python.156.executor": "Run",
@@ -185,6 +89,8 @@
     "Python.16.53.executor": "Run",
     "Python.160.executor": "Run",
     "Python.161.executor": "Run",
+    "Python.163.executor": "Run",
+    "Python.166.executor": "Run",
     "Python.168.executor": "Run",
     "Python.16task(47).executor": "Run",
     "Python.16task(49).executor": "Run",
@@ -193,8 +99,10 @@
     "Python.172.executor": "Run",
     "Python.174.executor": "Run",
     "Python.176.executor": "Run",
+    "Python.178.executor": "Run",
     "Python.18.executor": "Run",
     "Python.180.executor": "Run",
+    "Python.188.executor": "Run",
     "Python.198.executor": "Run",
     "Python.2.executor": "Run",
     "Python.207.executor": "Run",
@@ -657,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760014893760</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="17">
+      <option name="closed" value="true" />
+      <created>1760174777029</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1760174777029</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

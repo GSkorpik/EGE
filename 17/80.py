@@ -1,28 +1,9 @@
 
 def f(n):
-    a0 =0
-    a1 =0
-    a2 =0
-    a3 =0
-    a4 =0
-    a5 =0
-    a6 =0
-    a7 =0
-    a8 = 0
-    a9 = 0
-    for r in str(n):
-        a0 += r.count('0')
-        a1 += r.count('1')
-        a2 += r.count('2')
-        a3 += r.count('3')
-        a4 += r.count('4')
-        a5 += r.count('5')
-        a6 += r.count('6')
-        a7 += r.count('7')
-        a8 += r.count('8')
-        a9 += r.count('9')
-
-    if a0<=1 and a1<=1 and a2<=1 and a3<=1 and a4<=1 and a5<=1 and a6<=1 and a7<=1 and a8<=1 and a9<=1:
+    s=str(n)
+    a=set(s)
+    b=list(map(int,s))
+    if len(b)==len(a):
         return True
     else:
         return False

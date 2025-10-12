@@ -3,7 +3,7 @@ maxx=0
 k=0
 for n in range(9919,21987):
     s=str(n)
-    if s.count('2')==0 and s.count('1')==0 and s.count('0')==0 and s.count('3')>0:
+    if min(s)=='3' and s.count('3')>0:
         if (n%2==0 or n%3==0) and n%16!=0:
             minn = min(minn, int(n))
             maxx = max(maxx, int(n))
