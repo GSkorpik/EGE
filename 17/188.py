@@ -1,4 +1,4 @@
-
+'''
 maxx=0
 k=0
 with open('17-7.txt') as f:
@@ -8,7 +8,25 @@ with open('17-7.txt') as f:
             maxa=max(a[i],a[i+1],a[i+2])
             maxx+=maxa
             k+=1
-print(k,maxx)
+print(k,maxx)'''
+
+
+n=0
+s=0
+with open('17-7.txt') as f:
+    a=[int(x) for x in f.readlines()]
+    for i in range(len(a)-2):
+        a3=[a[i],a[i+1],a[i+2]]
+        k=0
+        for x in a3:
+            if x%16==0:
+                k+=1
+        if k>=2:
+            n+=1
+            s+=max(a3)
+
+print(n,s)
+
 '''
 188)	(П. Волгин) В файле 17-7.txt содержится последовательность целых чисел. 
 Элементы последовательности могут принимать значения от 0 до 300 включительно. 
