@@ -5,24 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/17/157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/185.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/189.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/190.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/199.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/220.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/243.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/257.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/258.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/263.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/276.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/279.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/288.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/292.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/245.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/252.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/259.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/264.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/268.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/272.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/273.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/277.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/280.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/281.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/283.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/285.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/289.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/290.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/293.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/294.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/297.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/299.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/306.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/308.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/314.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/316.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/340.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/371.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/188.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/188.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,17 +146,21 @@
     "Python.242.executor": "Run",
     "Python.243.executor": "Run",
     "Python.245.executor": "Run",
+    "Python.249.executor": "Run",
+    "Python.252.executor": "Run",
     "Python.254.executor": "Run",
     "Python.255.executor": "Run",
     "Python.256.executor": "Run",
     "Python.257.executor": "Run",
     "Python.258.executor": "Run",
+    "Python.259.executor": "Run",
     "Python.263.executor": "Run",
     "Python.264.executor": "Run",
     "Python.266.executor": "Run",
     "Python.268.executor": "Run",
     "Python.269.executor": "Run",
     "Python.271.executor": "Run",
+    "Python.272.executor": "Run",
     "Python.274.executor": "Run",
     "Python.276.executor": "Run",
     "Python.278.executor": "Run",
@@ -161,8 +175,11 @@
     "Python.298.executor": "Run",
     "Python.2task.executor": "Run",
     "Python.3.executor": "Run",
+    "Python.300.executor": "Run",
     "Python.30090.executor": "Run",
+    "Python.302.executor": "Run",
     "Python.305.executor": "Run",
+    "Python.306.executor": "Run",
     "Python.307.executor": "Run",
     "Python.308.executor": "Run",
     "Python.313.executor": "Run",
@@ -186,6 +203,7 @@
     "Python.335.executor": "Run",
     "Python.337.executor": "Run",
     "Python.338.executor": "Run",
+    "Python.340.executor": "Run",
     "Python.341.executor": "Run",
     "Python.342.executor": "Run",
     "Python.343.executor": "Run",
@@ -598,7 +616,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760276175216</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="17">
+      <option name="closed" value="true" />
+      <created>1760625153624</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1760625153624</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
