@@ -7,11 +7,10 @@ am=max(a51)
 for i in range(len(a)-1):
     a1=a[i]
     a2=a[i+1]
-    if (a1%10)!=0 and (a2%10)!=0:
-        if (51*int(str(a1)[-1])==a1)+(51*int(str(a2)[-1])==a2)==1:
-            if a1+a2<=am:
-                k+=1
-                maxx=max(maxx,a1+a2)
+    if (51*(a1%10)==a1)+(51*(a2%10)==a2)==1:
+        if a1+a2<am:
+            k+=1
+            maxx=max(maxx,a1+a2)
 
 print(k,maxx)
 

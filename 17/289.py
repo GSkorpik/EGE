@@ -3,14 +3,13 @@ k=0
 mini=100000000000000000000
 a=[int(x) for x in open('17-288.txt')]
 for i in range(len(a)-3):
-    a1=str(a[i])
-    a2=str(a[i+1])
-    a3=str(a[i+2])
-    a4=str(a[i+3])
-    if ((a1[-1]=='3')+(a2[-1]=='3')+(a3[-1]=='3')+(a4[-1]=='3'))>0:
-        if int(a1)%7!=3 and int(a2)%7!=3 and int(a3)%7!=3 and int(a4)%7!=3:
-            k+=1
-            mini=min(mini,int(max(a1,a2,a3,a4)) - int(min(a1,a2,a3,a4)))
+    a4=a[i:i+4]
+
+    if any(abs(x)%10==3 for x in a4) and \
+            not(any(abs(x)%7==3 for x in a4)):
+        k+=1
+        mini=min(mini,max(a4)-min(a4))
+
 print(k,mini)
 
 

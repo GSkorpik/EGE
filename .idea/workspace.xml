@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/17/273.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/277.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/280.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/281.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/283.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/285.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/289.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/290.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/293.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/294.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/297.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/299.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/386.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/398.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/405.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/406.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/407.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/409.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/412.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/414.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/425.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/431.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/432.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/434.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/435.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pravila/полезные программы.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/289.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/289.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/294.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/294.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/297.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/297.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/299.py" beforeDir="false" afterPath="$PROJECT_DIR$/17/299.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,14 +240,21 @@
     "Python.393.executor": "Run",
     "Python.394.executor": "Run",
     "Python.395.executor": "Run",
+    "Python.398.executor": "Run",
     "Python.4.executor": "Run",
     "Python.40.executor": "Run",
     "Python.401.executor": "Run",
+    "Python.405.executor": "Run",
+    "Python.406.executor": "Run",
+    "Python.407.executor": "Run",
     "Python.408.executor": "Run",
     "Python.409.executor": "Run",
     "Python.40_2.executor": "Run",
     "Python.41.executor": "Run",
+    "Python.412.executor": "Run",
+    "Python.414.executor": "Run",
     "Python.423.executor": "Run",
+    "Python.425.executor": "Run",
     "Python.44.executor": "Run",
     "Python.444.executor": "Run",
     "Python.456.executor": "Run",
@@ -627,7 +641,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760966602808</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="17">
+      <option name="closed" value="true" />
+      <created>1761124148930</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1761124148930</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

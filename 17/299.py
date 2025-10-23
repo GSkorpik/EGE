@@ -1,23 +1,25 @@
-from itertools import*
-
-
-
 
 k=0
 summ=0
 maxx=0
 a=[int(x) for x in open('17-299.txt')]
-a50=[x for x in a if x%50==0]
+summ=sum(sum(map(int,str(x))) for x in a if x%50==0)
+'''a50=[x for x in a if x%50==0]
 for i in a50:
-    summ+=sum(map(int,str(i)))
+    summ+=sum(map(int,str(i)))'''
 for i in range(len(a)-2):
-    a1=a[i]
-    a2=a[i+1]
-    a3=a[i+2]
-    if sum(map(int,str(a1)))==sum(map(int,str(a2))) or sum(map(int,str(a1)))==sum(map(int,str(a3))) or sum(map(int,str(a2)))==sum(map(int,str(a3))):
-        if a1+a2+a3<summ:
+    a3=a[i:i+3]
+    sa3=sum(a3)
+    s1=sum(map(int,str(a3[0])))
+    s2=sum(map(int,str(a3[1])))
+    s3=sum(map(int,str(a3[2])))
+    if a3[0] in [s2,s3] or a3[1] in [s1,s3] or a3[2] in [s1,s2]:
+        if sa3<summ:
             k+=1
-            maxx=max(maxx,a1+a2+a3)
+            maxx=max(maxx,sa3)
+
+    '''if sum(map(int,str(a1)))==sum(map(int,str(a2))) or sum(map(int,str(a1)))==sum(map(int,str(a3))) or sum(map(int,str(a2)))==sum(map(int,str(a3))):
+        '''
 
 print(k,maxx)
 

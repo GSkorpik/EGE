@@ -7,10 +7,10 @@ for i in range(len(a)-1):
     summ=a[i]+a[i+1]
     s1=sum(map(int,str(a[i])))
     s2=sum(map(int,str(a[i+1])))
-    if round(s1**0.5)**2==s1 and round(s2**0.5)**2==s2:
+    if round((s1+s2)**0.5)**2==s1+s2:
         if summ>s:
             k+=1
-            maxx=max(maxx,summ)
+            maxx=max(maxx,s1+s2)
 
 print(k,maxx)
 
