@@ -9,6 +9,8 @@
         k+=1
         mini=min(mini,max(a4)-min(a4))'''
 
+
+
 '''# алгоритм евклида
 a=int(input())
 b=int(input())
@@ -21,6 +23,7 @@ while a!=b:
 print(a)
 
 '''
+
 '''
 #Задача 17-425
 res=[]
@@ -29,5 +32,24 @@ if sum((x%11==a5) for x in aa)==1 and sum((x%7==a13) for x in aa)==1:
     res.append(sum(aa))
 print(len(res),min(res))'''
 
+'''# Для нахождение наибольшего общего делителя
+from math import gcd
+def f(a,b):
+    while a!=b:
+        if a>b:
+            a=a-b
+        else:
+            b=b-a
+    return a
 
+def f1(a,b):
+    while b!=0:
+        a,b=b,a%b
+    return a
+
+#print(gcd(12,24))
+
+#print(f1(12,24))
+
+'''
 
