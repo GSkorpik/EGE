@@ -1,10 +1,5 @@
-# алгоритм евклида
-a=int(input())
-b=int(input())
 
-while a!=b:
-    if a>b:
-        a=a-b
-    else:
-        b=b-a
-print(a)
+a=[-123,-22222222,-3333]
+
+if all(x>0 for x in a) or (all(x<0 for x in a)):
+    print(1)
