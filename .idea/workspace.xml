@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/17/417.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/160.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/210.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/214.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/243.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-210.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-214.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-228.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-243.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-249.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/9-251.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pravila/полезные программы.py" beforeDir="false" afterPath="$PROJECT_DIR$/pravila/полезные программы.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
     "Python.108.executor": "Run",
     "Python.11.executor": "Run",
@@ -77,6 +97,7 @@
     "Python.159.executor": "Run",
     "Python.16-47.executor": "Run",
     "Python.16.53.executor": "Run",
+    "Python.16.executor": "Run",
     "Python.160.executor": "Run",
     "Python.161.executor": "Run",
     "Python.163.executor": "Run",
@@ -102,6 +123,8 @@
     "Python.2.executor": "Run",
     "Python.207.executor": "Run",
     "Python.208.executor": "Run",
+    "Python.21.executor": "Run",
+    "Python.210.executor": "Run",
     "Python.213.executor": "Run",
     "Python.214.executor": "Run",
     "Python.216.executor": "Run",
@@ -129,6 +152,7 @@
     "Python.257.executor": "Run",
     "Python.258.executor": "Run",
     "Python.259.executor": "Run",
+    "Python.26.executor": "Run",
     "Python.263.executor": "Run",
     "Python.264.executor": "Run",
     "Python.266.executor": "Run",
@@ -277,6 +301,7 @@
     "Python.73.executor": "Run",
     "Python.74.executor": "Run",
     "Python.75.executor": "Run",
+    "Python.76.executor": "Run",
     "Python.78.executor": "Run",
     "Python.79.executor": "Run",
     "Python.80.executor": "Run",
@@ -295,17 +320,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/ЕГЭ инфа/19-21",
+    "last_opened_file_path": "D:/ЕГЭ инфа/9",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\9" />
       <recent name="D:\ЕГЭ инфа\19-21" />
       <recent name="D:\ЕГЭ инфа\5" />
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\9" />
       <recent name="D:\ЕГЭ инфа\17" />
       <recent name="D:\ЕГЭ инфа\дз\ссылка дз" />
       <recent name="D:\ЕГЭ инфа\дз" />
@@ -653,7 +680,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761477480757</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="17">
+      <option name="closed" value="true" />
+      <created>1761481562323</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1761481562323</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -668,6 +703,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2task" />
     <MESSAGE value="6task" />
     <MESSAGE value="16task" />
