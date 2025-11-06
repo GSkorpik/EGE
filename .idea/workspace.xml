@@ -4,29 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/16taske/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/76.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/160.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/210.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/214.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/243.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-210.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-214.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-228.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-243.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-249.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-249.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/9-251.csv" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="16">
+      <change afterPath="$PROJECT_DIR$/16taske/105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/194.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/197.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/218.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16taske/87.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16taske/168.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/168.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +50,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
+    "Python.105.executor": "Run",
     "Python.108.executor": "Run",
     "Python.11.executor": "Run",
+    "Python.110.executor": "Run",
     "Python.111.executor": "Run",
     "Python.113.executor": "Run",
     "Python.114.executor": "Run",
@@ -74,6 +65,7 @@
     "Python.132.executor": "Run",
     "Python.134.executor": "Run",
     "Python.135.executor": "Run",
+    "Python.137.executor": "Run",
     "Python.138.executor": "Run",
     "Python.139.executor": "Run",
     "Python.14.313.executor": "Run",
@@ -118,6 +110,8 @@
     "Python.188.executor": "Run",
     "Python.189.executor": "Run",
     "Python.190.executor": "Run",
+    "Python.194.executor": "Run",
+    "Python.197.executor": "Run",
     "Python.198.executor": "Run",
     "Python.199.executor": "Run",
     "Python.2.executor": "Run",
@@ -128,6 +122,7 @@
     "Python.213.executor": "Run",
     "Python.214.executor": "Run",
     "Python.216.executor": "Run",
+    "Python.218.executor": "Run",
     "Python.219.executor": "Run",
     "Python.22.executor": "Run",
     "Python.220.executor": "Run",
@@ -688,7 +683,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761481562323</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="9">
+      <option name="closed" value="true" />
+      <created>1762090351715</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1762090351716</updated>
+    </task>
+    <task id="LOCAL-00043" summary="16">
+      <option name="closed" value="true" />
+      <created>1762090362781</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1762090362781</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -721,6 +732,8 @@
     <MESSAGE value="19-21" />
     <MESSAGE value="25" />
     <MESSAGE value="17" />
-    <option name="LAST_COMMIT_MESSAGE" value="17" />
+    <MESSAGE value="9" />
+    <MESSAGE value="16" />
+    <option name="LAST_COMMIT_MESSAGE" value="16" />
   </component>
 </project>
