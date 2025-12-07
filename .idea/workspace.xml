@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="16">
-      <change afterPath="$PROJECT_DIR$/16taske/105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/194.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/197.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/218.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/80.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16taske/87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/32_chert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6-3_образец00.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16taske/168.py" beforeDir="false" afterPath="$PROJECT_DIR$/16taske/168.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
     "Python.114.executor": "Run",
     "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
+    "Python.12.executor": "Run",
     "Python.123.executor": "Run",
     "Python.125.executor": "Run",
     "Python.131.executor": "Run",
@@ -134,6 +137,7 @@
     "Python.231.executor": "Run",
     "Python.233.executor": "Run",
     "Python.239.executor": "Run",
+    "Python.24.executor": "Run",
     "Python.240.executor": "Run",
     "Python.241.executor": "Run",
     "Python.242.executor": "Run",
@@ -198,6 +202,7 @@
     "Python.327.executor": "Run",
     "Python.328.executor": "Run",
     "Python.329.executor": "Run",
+    "Python.32_chert.executor": "Run",
     "Python.330.executor": "Run",
     "Python.331.executor": "Run",
     "Python.332.executor": "Run",
@@ -206,6 +211,7 @@
     "Python.335.executor": "Run",
     "Python.337.executor": "Run",
     "Python.338.executor": "Run",
+    "Python.34.executor": "Run",
     "Python.340.executor": "Run",
     "Python.341.executor": "Run",
     "Python.342.executor": "Run",
@@ -221,6 +227,7 @@
     "Python.357.executor": "Run",
     "Python.358.executor": "Run",
     "Python.359.executor": "Run",
+    "Python.36.executor": "Run",
     "Python.360.executor": "Run",
     "Python.361.executor": "Run",
     "Python.364.executor": "Run",
@@ -285,6 +292,8 @@
     "Python.54.executor": "Run",
     "Python.55.executor": "Run",
     "Python.57.executor": "Run",
+    "Python.6-3_образец00.executor": "Run",
+    "Python.6.executor": "Run",
     "Python.65.executor": "Run",
     "Python.68.executor": "Run",
     "Python.69.executor": "Run",
@@ -299,6 +308,7 @@
     "Python.76.executor": "Run",
     "Python.78.executor": "Run",
     "Python.79.executor": "Run",
+    "Python.8.executor": "Run",
     "Python.80.executor": "Run",
     "Python.85.executor": "Run",
     "Python.87.executor": "Run",
@@ -338,6 +348,35 @@
     <option name="myCommands">
       <command value="1+1" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ЕГЭ инфа" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.123" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -699,7 +738,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762090362781</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="16">
+      <option name="closed" value="true" />
+      <created>1762437702280</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1762437702280</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

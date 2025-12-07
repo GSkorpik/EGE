@@ -1,5 +1,10 @@
 
-a=[-123,-22222222,-3333]
+print('x y z w | F')
+for x in 0,1:
+    for y in 0, 1:
+        for z in 0,1:
+            for w in 0, 1:
+                f= not(x) or y and z or y and not(w) or not(z) and not(w)
 
-if all(x>0 for x in a) or (all(x<0 for x in a)):
-    print(1)
+                if f==0:
+                    print(x,y,z,w,'|',f)
