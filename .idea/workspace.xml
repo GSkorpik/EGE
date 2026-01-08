@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="6">
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/2 вар/6.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="stargrad">
+      <change afterPath="$PROJECT_DIR$/15/105 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/15-527_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/237.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/238.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/443.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
     "Python.10.executor": "Run",
+    "Python.105 1.executor": "Run",
     "Python.105.executor": "Run",
     "Python.108.executor": "Run",
     "Python.11.executor": "Run",
@@ -141,6 +139,8 @@
     "Python.230.executor": "Run",
     "Python.231.executor": "Run",
     "Python.233.executor": "Run",
+    "Python.237.executor": "Run",
+    "Python.238.executor": "Run",
     "Python.239.executor": "Run",
     "Python.24.executor": "Run",
     "Python.240.executor": "Run",
@@ -281,6 +281,7 @@
     "Python.434.executor": "Run",
     "Python.435.executor": "Run",
     "Python.44.executor": "Run",
+    "Python.443.executor": "Run",
     "Python.444.executor": "Run",
     "Python.45.executor": "Run",
     "Python.456.executor": "Run",
@@ -367,35 +368,6 @@
     <option name="myCommands">
       <command value="1+1" />
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ЕГЭ инфа" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.123" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -797,7 +769,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767793370479</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="stargrad">
+      <option name="closed" value="true" />
+      <created>1767847776676</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1767847776676</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -833,6 +813,7 @@
     <MESSAGE value="9" />
     <MESSAGE value="16" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="stargrad" />
+    <option name="LAST_COMMIT_MESSAGE" value="stargrad" />
   </component>
 </project>
