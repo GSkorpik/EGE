@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="stargrad">
-      <change afterPath="$PROJECT_DIR$/15/105 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/15-527_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/237.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/238.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/443.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="15">
+      <change afterPath="$PROJECT_DIR$/15/120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/377.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/387.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/407.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.115.executor": "Run",
     "Python.12 task.executor": "Run",
     "Python.12.executor": "Run",
+    "Python.120.executor": "Run",
     "Python.123.executor": "Run",
     "Python.125.executor": "Run",
     "Python.126.executor": "Run",
@@ -248,10 +249,12 @@
     "Python.371.executor": "Run",
     "Python.373.executor": "Run",
     "Python.375.executor": "Run",
+    "Python.377.executor": "Run",
     "Python.38.executor": "Run",
     "Python.382.executor": "Run",
     "Python.385.executor": "Run",
     "Python.386.executor": "Run",
+    "Python.387.executor": "Run",
     "Python.390.executor": "Run",
     "Python.392.executor": "Run",
     "Python.393.executor": "Run",
@@ -384,14 +387,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00001" summary="2task">
-      <option name="closed" value="true" />
-      <created>1726404973438</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1726404973438</updated>
     </task>
     <task id="LOCAL-00002" summary="6task">
       <option name="closed" value="true" />
@@ -777,7 +772,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767847776676</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="15">
+      <option name="closed" value="true" />
+      <created>1767854125650</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1767854125650</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -814,6 +817,7 @@
     <MESSAGE value="16" />
     <MESSAGE value="6" />
     <MESSAGE value="stargrad" />
-    <option name="LAST_COMMIT_MESSAGE" value="stargrad" />
+    <MESSAGE value="15" />
+    <option name="LAST_COMMIT_MESSAGE" value="15" />
   </component>
 </project>
