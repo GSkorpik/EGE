@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="15">
-      <change afterPath="$PROJECT_DIR$/15/150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/386.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/411.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/413.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/507.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/508.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/514.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/516.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/558.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/565.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/566.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/202.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/499.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/511.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/523.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/541.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/542.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/545.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/557.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/567.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/568.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/576.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/577.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/578.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -310,22 +311,34 @@
     "Python.489.executor": "Run",
     "Python.49.executor": "Run",
     "Python.491.executor": "Run",
+    "Python.499.executor": "Run",
     "Python.5.executor": "Run",
     "Python.50.executor": "Run",
     "Python.503.executor": "Run",
     "Python.507.executor": "Run",
     "Python.508.executor": "Run",
     "Python.51.executor": "Run",
+    "Python.511.executor": "Run",
     "Python.514.executor": "Run",
     "Python.516.executor": "Run",
     "Python.52.executor": "Run",
+    "Python.523.executor": "Run",
     "Python.53.executor": "Run",
     "Python.54.executor": "Run",
+    "Python.541.executor": "Run",
+    "Python.542.executor": "Run",
+    "Python.545.executor": "Run",
     "Python.55.executor": "Run",
+    "Python.557.executor": "Run",
     "Python.558.executor": "Run",
+    "Python.559.executor": "Run",
     "Python.565.executor": "Run",
     "Python.566.executor": "Run",
+    "Python.567.executor": "Run",
+    "Python.568.executor": "Run",
     "Python.57.executor": "Run",
+    "Python.576.executor": "Run",
+    "Python.577.executor": "Run",
     "Python.58.executor": "Run",
     "Python.6-3_образец00.executor": "Run",
     "Python.6.executor": "Run",
@@ -403,14 +416,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00003" summary="6task">
-      <option name="closed" value="true" />
-      <created>1731753860755</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1731753860756</updated>
     </task>
     <task id="LOCAL-00004" summary="6task">
       <option name="closed" value="true" />
@@ -796,7 +801,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768138289652</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="15">
+      <option name="closed" value="true" />
+      <created>1768487505969</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487505970</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
