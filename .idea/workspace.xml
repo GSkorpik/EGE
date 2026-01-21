@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="15">
-      <change afterPath="$PROJECT_DIR$/15/202.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/499.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/511.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/523.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/541.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/542.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/557.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/559.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/567.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/568.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/575.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/15/576.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/15/577.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/15/578.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/594.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15/623.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15/557.py" beforeDir="false" afterPath="$PROJECT_DIR$/15/557.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,9 +330,11 @@
     "Python.567.executor": "Run",
     "Python.568.executor": "Run",
     "Python.57.executor": "Run",
+    "Python.575.executor": "Run",
     "Python.576.executor": "Run",
     "Python.577.executor": "Run",
     "Python.58.executor": "Run",
+    "Python.594.executor": "Run",
     "Python.6-3_образец00.executor": "Run",
     "Python.6.executor": "Run",
     "Python.62.executor": "Run",
@@ -416,14 +411,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00004" summary="6task">
-      <option name="closed" value="true" />
-      <created>1731753902284</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1731753902284</updated>
     </task>
     <task id="LOCAL-00005" summary="16task">
       <option name="closed" value="true" />
@@ -809,7 +796,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768487505970</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="15">
+      <option name="closed" value="true" />
+      <created>1768734971799</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1768734971800</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
