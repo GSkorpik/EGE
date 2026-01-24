@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/8/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/75.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="8">
+      <change afterPath="$PROJECT_DIR$/8/108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/87.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +67,7 @@
     "Python.113.executor": "Run",
     "Python.114.executor": "Run",
     "Python.115.executor": "Run",
+    "Python.119.executor": "Run",
     "Python.12 task.executor": "Run",
     "Python.12.executor": "Run",
     "Python.120.executor": "Run",
@@ -82,14 +92,17 @@
     "Python.14.executor": "Run",
     "Python.140.executor": "Run",
     "Python.141.executor": "Run",
+    "Python.142.executor": "Run",
     "Python.143.executor": "Run",
     "Python.144.executor": "Run",
+    "Python.148.executor": "Run",
     "Python.15.executor": "Run",
     "Python.150.executor": "Run",
     "Python.151.executor": "Run",
     "Python.152.executor": "Run",
     "Python.153.executor": "Run",
     "Python.154.executor": "Run",
+    "Python.155.executor": "Run",
     "Python.156.executor": "Run",
     "Python.157.executor": "Run",
     "Python.158.executor": "Run",
@@ -337,11 +350,13 @@
     "Python.576.executor": "Run",
     "Python.577.executor": "Run",
     "Python.58.executor": "Run",
+    "Python.59.executor": "Run",
     "Python.594.executor": "Run",
     "Python.6-3_образец00.executor": "Run",
     "Python.6.executor": "Run",
     "Python.60.executor": "Run",
     "Python.62.executor": "Run",
+    "Python.64.executor": "Run",
     "Python.65.executor": "Run",
     "Python.66.executor": "Run",
     "Python.68.executor": "Run",
@@ -359,6 +374,8 @@
     "Python.79.executor": "Run",
     "Python.8.executor": "Run",
     "Python.80.executor": "Run",
+    "Python.82.executor": "Run",
+    "Python.83.executor": "Run",
     "Python.85.executor": "Run",
     "Python.87.executor": "Run",
     "Python.89.executor": "Run",
@@ -415,14 +432,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00007" summary="исправления и добавление правилл">
-      <option name="closed" value="true" />
-      <created>1737292170466</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1737292170466</updated>
     </task>
     <task id="LOCAL-00008" summary="исправления и добавление правилл">
       <option name="closed" value="true" />
@@ -808,7 +817,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769086915656</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="8">
+      <option name="closed" value="true" />
+      <created>1769092479219</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1769092479219</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -847,6 +864,7 @@
     <MESSAGE value="stargrad" />
     <MESSAGE value="15" />
     <MESSAGE value="вариант" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
+    <MESSAGE value="8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
   </component>
 </project>
