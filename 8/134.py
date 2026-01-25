@@ -10,7 +10,7 @@ for i in permutations('ВОРОТА'):
     if a==1:
         print(s)
         k+=1
-print(k)
+print(k//2)
 
 
 
