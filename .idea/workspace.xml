@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="8">
-      <change afterPath="$PROJECT_DIR$/8/114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/182.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/197.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/208.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/209.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pravila/если вопторяються буквы8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/252.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8/134.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/134.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8/208.py" beforeDir="false" afterPath="$PROJECT_DIR$/8/208.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +137,7 @@
     "Python.213.executor": "Run",
     "Python.214.executor": "Run",
     "Python.216.executor": "Run",
+    "Python.217.executor": "Run",
     "Python.218.executor": "Run",
     "Python.219.executor": "Run",
     "Python.22.executor": "Run",
@@ -152,6 +145,7 @@
     "Python.224.executor": "Run",
     "Python.226.executor": "Run",
     "Python.227.executor": "Run",
+    "Python.229.executor": "Run",
     "Python.23.executor": "Run",
     "Python.230.executor": "Run",
     "Python.231.executor": "Run",
@@ -165,6 +159,7 @@
     "Python.242.executor": "Run",
     "Python.243.executor": "Run",
     "Python.245.executor": "Run",
+    "Python.248.executor": "Run",
     "Python.249.executor": "Run",
     "Python.25.executor": "Run",
     "Python.252.executor": "Run",
@@ -432,14 +427,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00009" summary="решение 16 задания">
-      <option name="closed" value="true" />
-      <created>1737897893593</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1737897893593</updated>
     </task>
     <task id="LOCAL-00010" summary="Добавление правил">
       <option name="closed" value="true" />
@@ -825,7 +812,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769288043203</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="8">
+      <option name="closed" value="true" />
+      <created>1769347828941</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1769347828942</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -2,9 +2,20 @@ from itertools import*
 k=0
 for i in permutations('ДЕЙКСТРА',6):
     s=''.join(i)
-    if s.count('Й')==1 and ('ЙД' in s or 'ЙК' in s or 'ЙС' in s or 'ЙТ' in s or 'ЙР' in s):
+
+    if any('Й'+x in s for x in 'ДКСТР') :
         k+=1
 print(k)
+
+
+
+
+'''k=0
+for i in permutations('ДЕЙКСТРА',6):
+    s=''.join(i)
+    if s.count('Й')==1 and ('ЙД' in s or 'ЙК' in s or 'ЙС' in s or 'ЙТ' in s or 'ЙР' in s):
+        k+=1
+print(k)'''
 
 
 '''
