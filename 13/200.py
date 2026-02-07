@@ -4,9 +4,10 @@ for a in range(0,256):
     ip=ip_address(f'196.233.{a}.52')
     mask=ip_address('255.255.255.248')
     net=ip_network(f'{ip}/{mask}',0)
-    b=f'{ip:b}'
+
 
     for ip in net:
+        b = f'{ip:b}'
         if b[0:16].count('1')>b[16:32].count('1'):
             print(a)
 '''
