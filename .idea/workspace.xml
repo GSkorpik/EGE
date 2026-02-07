@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="13">
-      <change afterPath="$PROJECT_DIR$/13/108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/71.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/73.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/83.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/P135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/P54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/P71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/191.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/203.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +113,7 @@
     "Python.166.executor": "Run",
     "Python.167.executor": "Run",
     "Python.168.executor": "Run",
+    "Python.169.executor": "Run",
     "Python.16task(47).executor": "Run",
     "Python.16task(49).executor": "Run",
     "Python.16task.executor": "Run",
@@ -119,22 +122,27 @@
     "Python.172.executor": "Run",
     "Python.174.executor": "Run",
     "Python.176.executor": "Run",
+    "Python.177.executor": "Run",
     "Python.178.executor": "Run",
     "Python.18.executor": "Run",
     "Python.180.executor": "Run",
     "Python.182.executor": "Run",
     "Python.184.executor": "Run",
     "Python.185.executor": "Run",
+    "Python.187.executor": "Run",
     "Python.188.executor": "Run",
     "Python.189.executor": "Run",
     "Python.19-21.executor": "Run",
     "Python.19.executor": "Run",
     "Python.190.executor": "Run",
+    "Python.191.executor": "Run",
     "Python.194.executor": "Run",
     "Python.197.executor": "Run",
     "Python.198.executor": "Run",
     "Python.199.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.200.executor": "Run",
+    "Python.203.executor": "Run",
     "Python.207.executor": "Run",
     "Python.208.executor": "Run",
     "Python.209.executor": "Run",
@@ -434,14 +442,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00013" summary="14 задание">
-      <option name="closed" value="true" />
-      <created>1740317173664</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1740317173664</updated>
     </task>
     <task id="LOCAL-00014" summary="14 задание">
       <option name="closed" value="true" />
@@ -827,7 +827,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770211879496</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="13">
+      <option name="closed" value="true" />
+      <created>1770293067132</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1770293067134</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
