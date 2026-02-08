@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/13/149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/162.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="13">
       <change afterPath="$PROJECT_DIR$/13/165.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/170.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_образец.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/192.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/193.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/216.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/200.py" beforeDir="false" afterPath="$PROJECT_DIR$/13/200.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/2832503195017/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/2832503195017/13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/2832503195017/16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/2832503195017/16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +140,8 @@
     "Python.19.executor": "Run",
     "Python.190.executor": "Run",
     "Python.191.executor": "Run",
+    "Python.192.executor": "Run",
+    "Python.193.executor": "Run",
     "Python.194.executor": "Run",
     "Python.197.executor": "Run",
     "Python.198.executor": "Run",
@@ -155,6 +156,7 @@
     "Python.210.executor": "Run",
     "Python.213.executor": "Run",
     "Python.214.executor": "Run",
+    "Python.215.executor": "Run",
     "Python.216.executor": "Run",
     "Python.217.executor": "Run",
     "Python.218.executor": "Run",
@@ -447,14 +449,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00016" summary="комит">
-      <option name="closed" value="true" />
-      <created>1745589605412</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1745589605412</updated>
     </task>
     <task id="LOCAL-00017" summary="комит">
       <option name="closed" value="true" />
@@ -840,7 +834,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770492007776</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="13">
+      <option name="closed" value="true" />
+      <created>1770537507704</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1770537507704</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -879,8 +881,8 @@
     <MESSAGE value="stargrad" />
     <MESSAGE value="15" />
     <MESSAGE value="8" />
-    <MESSAGE value="13" />
     <MESSAGE value="вариант" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
+    <MESSAGE value="13" />
+    <option name="LAST_COMMIT_MESSAGE" value="13" />
   </component>
 </project>
