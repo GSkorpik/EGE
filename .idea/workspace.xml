@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="13">
-      <change afterPath="$PROJECT_DIR$/13/Справочник/Если несколько узлов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/Справочник/базовые функции.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/Справочник/опред макс а с неизвестным в айпи.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="правки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -415,11 +412,11 @@
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты" />
+      <recent name="D:\ЕГЭ инфа\16taske" />
+      <recent name="D:\ЕГЭ инфа\6" />
+      <recent name="D:\ЕГЭ инфа\13" />
       <recent name="D:\ЕГЭ инфа" />
-      <recent name="D:\ЕГЭ инфа\Варианты\2832503195017" />
-      <recent name="D:\ЕГЭ инфа\дз\кегэ" />
-      <recent name="D:\ЕГЭ инфа\sradgrad\2 вар" />
-      <recent name="D:\ЕГЭ инфа\sradgrad\1 вар" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -442,22 +439,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00018" summary="комит">
-      <option name="closed" value="true" />
-      <created>1745754127162</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1745754127162</updated>
-    </task>
-    <task id="LOCAL-00019" summary="5task">
-      <option name="closed" value="true" />
-      <created>1747575076706</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1747575076706</updated>
     </task>
     <task id="LOCAL-00020" summary="...">
       <option name="closed" value="true" />
@@ -835,7 +816,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770557688459</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="13 справочник">
+      <option name="closed" value="true" />
+      <created>1770816154547</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1770816154547</updated>
+    </task>
+    <task id="LOCAL-00068" summary="правки">
+      <option name="closed" value="true" />
+      <created>1770816227825</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1770816227825</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -851,8 +848,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2task" />
-    <MESSAGE value="6task" />
     <MESSAGE value="16task" />
     <MESSAGE value="исправления и добавление правилл" />
     <MESSAGE value="решение 16 задания" />
@@ -876,6 +871,8 @@
     <MESSAGE value="8" />
     <MESSAGE value="вариант" />
     <MESSAGE value="13" />
-    <option name="LAST_COMMIT_MESSAGE" value="13" />
+    <MESSAGE value="13 справочник" />
+    <MESSAGE value="правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки" />
   </component>
 </project>
