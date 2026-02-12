@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="правки">
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,11 +418,11 @@
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\13\Справочник" />
       <recent name="D:\ЕГЭ инфа\Варианты" />
       <recent name="D:\ЕГЭ инфа\16taske" />
       <recent name="D:\ЕГЭ инфа\6" />
       <recent name="D:\ЕГЭ инфа\13" />
-      <recent name="D:\ЕГЭ инфа" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -439,14 +445,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00020" summary="...">
-      <option name="closed" value="true" />
-      <created>1755781187874</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1755781187874</updated>
     </task>
     <task id="LOCAL-00021" summary="выполнение дз">
       <option name="closed" value="true" />
@@ -832,7 +830,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770816227825</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="правки">
+      <option name="closed" value="true" />
+      <created>1770901300880</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1770901300880</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
