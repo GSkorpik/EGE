@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="правки">
-      <change afterPath="$PROJECT_DIR$/sradgrad/1202/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/1202/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/1202/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/1202/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sradgrad/1202/8.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sradgrad/1202/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,11 +420,11 @@
       <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\sradgrad\1202" />
       <recent name="D:\ЕГЭ инфа\13\Справочник" />
       <recent name="D:\ЕГЭ инфа\Варианты" />
       <recent name="D:\ЕГЭ инфа\16taske" />
       <recent name="D:\ЕГЭ инфа\6" />
-      <recent name="D:\ЕГЭ инфа\13" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -445,14 +447,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00021" summary="выполнение дз">
-      <option name="closed" value="true" />
-      <created>1756636140008</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1756636140008</updated>
     </task>
     <task id="LOCAL-00022" summary="31/08">
       <option name="closed" value="true" />
@@ -838,7 +832,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770901300880</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1770906551866</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1770906551866</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -875,10 +877,10 @@
     <MESSAGE value="stargrad" />
     <MESSAGE value="15" />
     <MESSAGE value="8" />
-    <MESSAGE value="вариант" />
     <MESSAGE value="13" />
     <MESSAGE value="13 справочник" />
     <MESSAGE value="правки" />
-    <option name="LAST_COMMIT_MESSAGE" value="правки" />
+    <MESSAGE value="вариант" />
+    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
   </component>
 </project>
