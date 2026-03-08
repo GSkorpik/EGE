@@ -4,19 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/23/113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/63.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="23">
+      <change afterPath="$PROJECT_DIR$/23/104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/150.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15/623.py" beforeDir="false" afterPath="$PROJECT_DIR$/23/105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +56,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
     "Python.10.executor": "Run",
+    "Python.104.executor": "Run",
     "Python.105 1.executor": "Run",
     "Python.105.executor": "Run",
+    "Python.106.executor": "Run",
     "Python.108.executor": "Run",
     "Python.11.executor": "Run",
     "Python.110.executor": "Run",
@@ -63,12 +68,14 @@
     "Python.114.executor": "Run",
     "Python.115.executor": "Run",
     "Python.116.executor": "Run",
+    "Python.117.executor": "Run",
     "Python.118.executor": "Run",
     "Python.119.executor": "Run",
     "Python.12 task.executor": "Run",
     "Python.12.executor": "Run",
     "Python.120.executor": "Run",
     "Python.121.executor": "Run",
+    "Python.122.executor": "Run",
     "Python.123.executor": "Run",
     "Python.125.executor": "Run",
     "Python.126.executor": "Run",
@@ -406,6 +413,7 @@
     "Python.98.executor": "Run",
     "Python.99.executor": "Run",
     "Python.P54.executor": "Run",
+    "Python.TEST.executor": "Run",
     "Python.main.executor": "Run",
     "Python.sumцифр.executor": "Run",
     "Python.перевод чисел в сист исчесл.executor": "Run",
@@ -454,14 +462,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00025" summary="14 задание">
-      <option name="closed" value="true" />
-      <created>1757601325809</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1757601325809</updated>
     </task>
     <task id="LOCAL-00026" summary="дз">
       <option name="closed" value="true" />
@@ -847,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771667947062</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="23">
+      <option name="closed" value="true" />
+      <created>1772721177631</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1772721177632</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -863,7 +871,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="16task" />
     <MESSAGE value="исправления и добавление правилл" />
     <MESSAGE value="решение 16 задания" />
     <MESSAGE value="Добавление правил" />
@@ -888,6 +895,7 @@
     <MESSAGE value="13 справочник" />
     <MESSAGE value="правки" />
     <MESSAGE value="вариант" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
+    <MESSAGE value="23" />
+    <option name="LAST_COMMIT_MESSAGE" value="23" />
   </component>
 </project>
