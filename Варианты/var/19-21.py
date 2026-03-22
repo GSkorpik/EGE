@@ -5,7 +5,7 @@ def f(s1,s2,m):
     if m%2!=0:
         return (s1+1,s2,m-1) or (s1*2,s2,m-1) or (s1,s2+1,m-1) or (s1,s2*2,m-1)
     else:
-        return (s1 + 1, s2, m - 1) and (s1 * 2, s2, m - 1) and (s1, s2 + 1, m - 1) and (s1, s2 * 2, m - 1)
+        return (s1 + 1, s2, m - 1) or (s1 * 2, s2, m - 1) or (s1, s2 + 1, m - 1) or (s1, s2 * 2, m - 1)
 
 
 print('19)',*[s2 for s2 in range(1,194) if f(17,s2,2)])
