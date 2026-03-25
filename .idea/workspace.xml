@@ -4,369 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="23">
-      <change afterPath="$PROJECT_DIR$/24/.~lock.ege24 3.doc#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-153.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-157.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-157s.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-164.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-168.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-169.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-171.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-173.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-174.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-175.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-178.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-179.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-180.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-181.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-186.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-191.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-196.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-197.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-200.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-203.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-204.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-208.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-209.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-210.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-211.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-212.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-213.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-215.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-221.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-222.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-223.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-224.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-225.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-228.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-230.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-232.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-233.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-234.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-235.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-237.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-238.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-239.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-240.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-241.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-247.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-249.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-250.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-251.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-252.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-253.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-256.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-257.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-258.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-259.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-260.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-261.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-262.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-263.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-264.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-268.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-271.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-274.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-275.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-276.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-277.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-278.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-279.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-280.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-292.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-293.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-294.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-295.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-296.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-298.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-299.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-300.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-301.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-302.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-303.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-304.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-305.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-306.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-307.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-309.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-310.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-314.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-319.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-320.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-332.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-333.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-334.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-335.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-337.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-345.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-347.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-356.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-357.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-358.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-359.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-360.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-361.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-362.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-363.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-367.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-371.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-j9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-s1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24-s2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24data 2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/ege24 3.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7-m7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7a-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7b-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k7c-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/k8-99.txt" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
+      <change afterPath="$PROJECT_DIR$/24/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/37.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Варианты/var/19-21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/var/19-21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/.~lock.ege24 3.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/24/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -608,6 +254,7 @@
     "Python.328.executor": "Run",
     "Python.329.executor": "Run",
     "Python.32_chert.executor": "Run",
+    "Python.33.executor": "Run",
     "Python.330.executor": "Run",
     "Python.331.executor": "Run",
     "Python.332.executor": "Run",
@@ -641,6 +288,7 @@
     "Python.366.executor": "Run",
     "Python.367.executor": "Run",
     "Python.369.executor": "Run",
+    "Python.37.executor": "Run",
     "Python.370.executor": "Run",
     "Python.371.executor": "Run",
     "Python.373.executor": "Run",
@@ -780,11 +428,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\24" />
       <recent name="D:\ЕГЭ инфа\sradgrad" />
       <recent name="D:\ЕГЭ инфа\9" />
       <recent name="D:\ЕГЭ инфа\19-21" />
       <recent name="D:\ЕГЭ инфа\5" />
-      <recent name="C:\Users\GSkorpik\PycharmProjects\ЕГЭ инфа\14" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ЕГЭ инфа\Варианты" />
@@ -814,14 +462,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00031" summary="25">
-      <option name="closed" value="true" />
-      <created>1759522112924</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1759522112924</updated>
     </task>
     <task id="LOCAL-00032" summary="25">
       <option name="closed" value="true" />
@@ -1207,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773564188876</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="24">
+      <option name="closed" value="true" />
+      <created>1774184809468</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1774184809469</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1223,7 +871,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="решение 16 задания" />
     <MESSAGE value="Добавление правил" />
     <MESSAGE value="комит" />
     <MESSAGE value="5task" />
@@ -1248,6 +895,7 @@
     <MESSAGE value="вариант" />
     <MESSAGE value="var" />
     <MESSAGE value="23" />
-    <option name="LAST_COMMIT_MESSAGE" value="23" />
+    <MESSAGE value="24" />
+    <option name="LAST_COMMIT_MESSAGE" value="24" />
   </component>
 </project>
