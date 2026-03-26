@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
-      <change afterPath="$PROJECT_DIR$/24/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24/.~lock.ege24 3.doc#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/24/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +151,7 @@
     "Python.198.executor": "Run",
     "Python.199.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.20.executor": "Run",
     "Python.200.executor": "Run",
     "Python.201.executor": "Run",
     "Python.203.executor": "Run",
@@ -462,14 +462,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00032" summary="25">
-      <option name="closed" value="true" />
-      <created>1759677909200</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1759677909200</updated>
     </task>
     <task id="LOCAL-00033" summary="17">
       <option name="closed" value="true" />
@@ -855,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774184809469</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="24">
+      <option name="closed" value="true" />
+      <created>1774440501893</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1774440501893</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
