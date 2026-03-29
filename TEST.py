@@ -1,6 +1,2 @@
 a='1234'
-b=''
-for i in a:
-    b=i+b
-
-print(b)
+print(a[0:3])

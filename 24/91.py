@@ -12,6 +12,7 @@ for i in f:
         if x>mx:
             mx=x
         c=''
+
 if f[-1].isdigit() and int(f[-1])%2!=0:
     x = int(c)
     if x > mx:
