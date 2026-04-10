@@ -4,32 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
-      <change afterPath="$PROJECT_DIR$/6/prav.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/03.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/10.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/18.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/22.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/4/9.ods" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/10.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/18.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/22.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/27_A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/27_B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/3.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/9.ods" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/4/25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/4/25.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -486,14 +488,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
     </task>
-    <task id="LOCAL-00037" summary="17">
-      <option name="closed" value="true" />
-      <created>1760966602808</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1760966602808</updated>
-    </task>
     <task id="LOCAL-00038" summary="17">
       <option name="closed" value="true" />
       <created>1761124148930</created>
@@ -878,7 +872,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775122118896</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1775395847669</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1775395847669</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -915,10 +917,10 @@
     <MESSAGE value="13" />
     <MESSAGE value="13 справочник" />
     <MESSAGE value="правки" />
-    <MESSAGE value="вариант" />
     <MESSAGE value="var" />
     <MESSAGE value="23" />
     <MESSAGE value="24" />
-    <option name="LAST_COMMIT_MESSAGE" value="24" />
+    <MESSAGE value="вариант" />
+    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
   </component>
 </project>
