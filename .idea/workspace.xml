@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/10.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/18.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/22.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/27_A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/27_B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/3.ods" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/9.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/151.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/156.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Варианты/4/25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/4/25.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -488,14 +466,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
     </task>
-    <task id="LOCAL-00038" summary="17">
-      <option name="closed" value="true" />
-      <created>1761124148930</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1761124148930</updated>
-    </task>
     <task id="LOCAL-00039" summary="17">
       <option name="closed" value="true" />
       <created>1761230354927</created>
@@ -880,7 +850,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775395847669</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1775824291285</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1775824291286</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
