@@ -1,7 +1,20 @@
 
 #f='ABCARRFTTAGHRJFTTAWERRDF'
 f=open('24-153.txt').readline()
-f=' '+f+' '
+k=0
+for g in range(7,10+1):
+    for i in range(g-1,len(f)):
+        if f[i]=='F' and f[i-g+1]=='A':
+            k+=1
+print(k)
+
+
+
+
+
+
+
+'''f=' '+f+' '
 k=0
 c=0
 for i in range(len(f)):
@@ -20,7 +33,7 @@ for i in range(len(f)):
                 break
 print(c)
 
-
+'''
 '''
 (А. Кабанов) Текстовый файл 24-153.txt содержит строку из заглавных букв A, B, C, D, E, F, всего не более 106 символов. 
 AF-подстроками назовём непустые последовательности идущих подряд символов A, B, C, D, E, F, ограниченные в начале символом A, 

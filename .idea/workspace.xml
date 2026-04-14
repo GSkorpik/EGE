@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/24/151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/156.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
+      <change afterPath="$PROJECT_DIR$/24/157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/168.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/156.py" beforeDir="false" afterPath="$PROJECT_DIR$/24/156.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -466,14 +469,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
     </task>
-    <task id="LOCAL-00039" summary="17">
-      <option name="closed" value="true" />
-      <created>1761230354927</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1761230354927</updated>
-    </task>
     <task id="LOCAL-00040" summary="17">
       <option name="closed" value="true" />
       <created>1761477480757</created>
@@ -858,7 +853,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775824291286</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="24">
+      <option name="closed" value="true" />
+      <created>1775995290503</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1775995290503</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -897,8 +900,8 @@
     <MESSAGE value="правки" />
     <MESSAGE value="var" />
     <MESSAGE value="23" />
-    <MESSAGE value="24" />
     <MESSAGE value="вариант" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
+    <MESSAGE value="24" />
+    <option name="LAST_COMMIT_MESSAGE" value="24" />
   </component>
 </project>
