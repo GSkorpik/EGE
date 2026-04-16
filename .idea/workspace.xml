@@ -5,14 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
-      <change afterPath="$PROJECT_DIR$/24/157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/10.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/18.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/22.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/27_A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/27_B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/3.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/досрок/9.ods" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24/156.py" beforeDir="false" afterPath="$PROJECT_DIR$/24/156.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/sradgrad/aprel/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -469,14 +486,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
     </task>
-    <task id="LOCAL-00040" summary="17">
-      <option name="closed" value="true" />
-      <created>1761477480757</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1761477480757</updated>
-    </task>
     <task id="LOCAL-00041" summary="17">
       <option name="closed" value="true" />
       <created>1761481562323</created>
@@ -861,7 +870,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775995290503</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="24">
+      <option name="closed" value="true" />
+      <created>1776157979422</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1776157979423</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,17 +1,17 @@
-f=[a,b,c,f,f,d,e,f,g]
+
+f='FFFFBCFFFFBCFFFFFFFFFFFBC'
+bc=0
+k=1
 mk=0
-flag=1
-k=0
-a=set()
-for i in f:
-    if i.isalpha():
-        k+=1
-        a.add(i)
-    else:
-        if len(a)==7:
-            if k > mk:
-                mk = k
-        flag=0
-        k=0
+for i in range(1,len(f)):
+    k+=1
+    if f[i-1:i+1]=='BC':
+        bc+=1
+    if bc<2:
+        mk=max(mk,k)
+    if bc>=2:
+        k = 1
+        bc = 0
+        mk = max(mk, k )
 
 print(mk)
