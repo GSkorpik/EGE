@@ -1,23 +1,11 @@
 
 
 
-def f(n):
-    s=''
-    while n!=0:
-        a=n%9
-        s=str(a)+s
-        n//=9
-    if s[0] not in '26' and s[-1]!=s[-2]:
-        return s
-    else:
-        return s
 
-print(int(f(2356),9))
-print(f(4782969),f(43046721))
-print(int(str(10**6),9))
-''''k=0
-for n in range(4782969,43046721):
-    k+=f(n)
+a1=125
 
+b1=oct(a1)[2:]
 
-print(k)'''
+max1=max(int(x) for x in str(b1))
+i1=b1.index(str(max1))
+print(i1,max1,b1)
