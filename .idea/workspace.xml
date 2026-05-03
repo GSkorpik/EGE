@@ -9,22 +9,10 @@
       <change afterPath="$PROJECT_DIR$/Варианты/27-04/16.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/27-04/23.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/27-04/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/14.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/28_04/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/17-370.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/28_04/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/24-153.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/28_04/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Варианты/28_04/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Варианты/28_04/14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -484,14 +472,6 @@
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
     </task>
-    <task id="LOCAL-00048" summary="6">
-      <option name="closed" value="true" />
-      <created>1767793370479</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1767793370479</updated>
-    </task>
     <task id="LOCAL-00049" summary="stargrad">
       <option name="closed" value="true" />
       <created>1767847776676</created>
@@ -876,7 +856,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777375286522</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1777475935595</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1777475935596</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
