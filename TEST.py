@@ -1,9 +1,6 @@
 
 
-
-a='12345'
-s=''
-for i in a:
-    s=i+s
-print(s)
-
+a=set()
+a.add(22)
+a.add(3)
+print(sum(map(int,a)))
