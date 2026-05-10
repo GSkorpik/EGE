@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/Варианты/111/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_23762.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/111/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/17-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/24-253.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/24.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/111/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/111/8.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/44/23.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/44/25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,11 +446,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа" />
+      <recent name="D:\ЕГЭ инфа\Варианты\досрок" />
+      <recent name="D:\ЕГЭ инфа\Варианты" />
       <recent name="D:\ЕГЭ инфа\Варианты\111" />
       <recent name="D:\ЕГЭ инфа\Варианты\44" />
-      <recent name="D:\ЕГЭ инфа\Варианты\28_04" />
-      <recent name="D:\ЕГЭ инфа\Варианты\27-04" />
-      <recent name="D:\ЕГЭ инфа\Варианты\23-04" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -480,14 +473,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00052" summary="15">
-      <option name="closed" value="true" />
-      <created>1768487505969</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1768487505970</updated>
     </task>
     <task id="LOCAL-00053" summary="15">
       <option name="closed" value="true" />
@@ -873,7 +858,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778235644326</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1778397092530</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1778397092531</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
