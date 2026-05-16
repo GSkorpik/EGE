@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
-      <change afterPath="$PROJECT_DIR$/15/482.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/шаблон для отрезков.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="15">
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -442,11 +455,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты\sradgrad\may" />
       <recent name="D:\ЕГЭ инфа" />
       <recent name="D:\ЕГЭ инфа\Варианты\досрок" />
       <recent name="D:\ЕГЭ инфа\Варианты" />
       <recent name="D:\ЕГЭ инфа\Варианты\111" />
-      <recent name="D:\ЕГЭ инфа\Варианты\44" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -469,14 +482,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00054" summary="15">
-      <option name="closed" value="true" />
-      <created>1768998107687</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1768998107688</updated>
     </task>
     <task id="LOCAL-00055" summary="вариант">
       <option name="closed" value="true" />
@@ -862,7 +867,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778417968443</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="15">
+      <option name="closed" value="true" />
+      <created>1778671380197</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1778671380198</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -892,7 +905,6 @@
     <MESSAGE value="16" />
     <MESSAGE value="6" />
     <MESSAGE value="stargrad" />
-    <MESSAGE value="15" />
     <MESSAGE value="8" />
     <MESSAGE value="13" />
     <MESSAGE value="13 справочник" />
@@ -903,6 +915,7 @@
     <MESSAGE value="вар" />
     <MESSAGE value="24" />
     <MESSAGE value="вариант" />
-    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
+    <MESSAGE value="15" />
+    <option name="LAST_COMMIT_MESSAGE" value="15" />
   </component>
 </project>
