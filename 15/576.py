@@ -1,16 +1,14 @@
-'''p=list(range(128764,775638))
-q=list(range(280932,894568))
-r=list(range(754683,929872))'''
-p=list(range(10,40))
-q=list(range(20,50))
-a=set()
+def f(x,a1,a2):
+    p=128764<=x<=775637
+    q=280932<=x<=894567
+    r=754683<=x<=929871
+    a=a1<=x<=a2
+    return ((not a)<=((p==q)<=(r==q)) )
 
-for x in range(10000):
-    Q = x in q
-    P = x in p
-    R = x in r
-    A = x in a
-    if ((not A)<=((P==Q)<=(R==Q)) )== 0:
-        a.add(x)
-print(a)
-print(929872-280932-1)
+p=[x+d for x in [128764,280932,754683,775637,894567,929871] for d in [-0.1,0,0.1]]
+am=10**100
+for a1 in p:
+    for a2 in p:
+        if all(f(x,a1,a2) for x in p):
+            am=min(am,round(a2)-round(a1))
+print(am)
