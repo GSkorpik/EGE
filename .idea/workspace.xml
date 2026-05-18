@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="15">
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/sradgrad/may/8.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,6 +352,7 @@
     &quot;Python.5.executor&quot;: &quot;Run&quot;,
     &quot;Python.50.executor&quot;: &quot;Run&quot;,
     &quot;Python.503.executor&quot;: &quot;Run&quot;,
+    &quot;Python.506.executor&quot;: &quot;Run&quot;,
     &quot;Python.507.executor&quot;: &quot;Run&quot;,
     &quot;Python.508.executor&quot;: &quot;Run&quot;,
     &quot;Python.51.executor&quot;: &quot;Run&quot;,
@@ -374,7 +361,9 @@
     &quot;Python.516.executor&quot;: &quot;Run&quot;,
     &quot;Python.52.executor&quot;: &quot;Run&quot;,
     &quot;Python.523.executor&quot;: &quot;Run&quot;,
+    &quot;Python.525.executor&quot;: &quot;Run&quot;,
     &quot;Python.53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.537.executor&quot;: &quot;Run&quot;,
     &quot;Python.54.executor&quot;: &quot;Run&quot;,
     &quot;Python.541.executor&quot;: &quot;Run&quot;,
     &quot;Python.542.executor&quot;: &quot;Run&quot;,
@@ -389,6 +378,7 @@
     &quot;Python.567.executor&quot;: &quot;Run&quot;,
     &quot;Python.568.executor&quot;: &quot;Run&quot;,
     &quot;Python.57.executor&quot;: &quot;Run&quot;,
+    &quot;Python.571.executor&quot;: &quot;Run&quot;,
     &quot;Python.575.executor&quot;: &quot;Run&quot;,
     &quot;Python.576.executor&quot;: &quot;Run&quot;,
     &quot;Python.577.executor&quot;: &quot;Run&quot;,
@@ -455,11 +445,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты\probnik" />
       <recent name="D:\ЕГЭ инфа\Варианты\sradgrad\may" />
       <recent name="D:\ЕГЭ инфа" />
       <recent name="D:\ЕГЭ инфа\Варианты\досрок" />
       <recent name="D:\ЕГЭ инфа\Варианты" />
-      <recent name="D:\ЕГЭ инфа\Варианты\111" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -482,30 +472,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00055" summary="вариант">
-      <option name="closed" value="true" />
-      <created>1769086915656</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1769086915656</updated>
-    </task>
-    <task id="LOCAL-00056" summary="8">
-      <option name="closed" value="true" />
-      <created>1769092479219</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1769092479219</updated>
-    </task>
-    <task id="LOCAL-00057" summary="8">
-      <option name="closed" value="true" />
-      <created>1769288043203</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1769288043203</updated>
     </task>
     <task id="LOCAL-00058" summary="8">
       <option name="closed" value="true" />
@@ -875,7 +841,31 @@
       <option name="project" value="LOCAL" />
       <updated>1778671380198</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1778934405586</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1778934405586</updated>
+    </task>
+    <task id="LOCAL-00105" summary="15">
+      <option name="closed" value="true" />
+      <created>1779024716733</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1779024716734</updated>
+    </task>
+    <task id="LOCAL-00106" summary="12">
+      <option name="closed" value="true" />
+      <created>1779024729317</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1779024729317</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -891,7 +881,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="5task" />
     <MESSAGE value="..." />
     <MESSAGE value="выполнение дз" />
     <MESSAGE value="31/08" />
@@ -916,6 +905,7 @@
     <MESSAGE value="24" />
     <MESSAGE value="вариант" />
     <MESSAGE value="15" />
-    <option name="LAST_COMMIT_MESSAGE" value="15" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>
