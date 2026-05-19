@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="12">
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="задания">
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/17var01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/24var01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
@@ -445,11 +461,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты\сборник 1" />
       <recent name="D:\ЕГЭ инфа\Варианты\probnik" />
       <recent name="D:\ЕГЭ инфа\Варианты\sradgrad\may" />
       <recent name="D:\ЕГЭ инфа" />
       <recent name="D:\ЕГЭ инфа\Варианты\досрок" />
-      <recent name="D:\ЕГЭ инфа\Варианты" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -472,14 +488,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00058" summary="8">
-      <option name="closed" value="true" />
-      <created>1769347828941</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1769347828942</updated>
     </task>
     <task id="LOCAL-00059" summary="8">
       <option name="closed" value="true" />
@@ -865,7 +873,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779024729317</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="задания">
+      <option name="closed" value="true" />
+      <created>1779103081694</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1779103081695</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -881,7 +897,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="..." />
     <MESSAGE value="выполнение дз" />
     <MESSAGE value="31/08" />
     <MESSAGE value="5 задание" />
@@ -906,6 +921,7 @@
     <MESSAGE value="вариант" />
     <MESSAGE value="15" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="задания" />
   </component>
 </project>
