@@ -12,7 +12,7 @@ for b in range(1,11):
             break
 '''
         if 10**5<=s<10**6 and str(s).count('1')==0 and a%2!=0:
-            c.append(s)
+            c.append(s) 
 '''
 
 
