@@ -4,25 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="задания">
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/14.py" afterDir="false" />
+    <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="вариант">
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/17_29971.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/21_05/8.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/17var01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/23.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/24var01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Варианты/сборник 1/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -461,11 +460,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты\21_05" />
       <recent name="D:\ЕГЭ инфа\Варианты\сборник 1" />
       <recent name="D:\ЕГЭ инфа\Варианты\probnik" />
       <recent name="D:\ЕГЭ инфа\Варианты\sradgrad\may" />
       <recent name="D:\ЕГЭ инфа" />
-      <recent name="D:\ЕГЭ инфа\Варианты\досрок" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -488,22 +487,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00059" summary="8">
-      <option name="closed" value="true" />
-      <created>1769693549866</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1769693549866</updated>
-    </task>
-    <task id="LOCAL-00060" summary="13">
-      <option name="closed" value="true" />
-      <created>1770124322704</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1770124322705</updated>
     </task>
     <task id="LOCAL-00061" summary="13">
       <option name="closed" value="true" />
@@ -881,7 +864,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779103081695</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="задания">
+      <option name="closed" value="true" />
+      <created>1779196476665</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1779196476666</updated>
+    </task>
+    <task id="LOCAL-00109" summary="вариант">
+      <option name="closed" value="true" />
+      <created>1779196534038</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1779196534038</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -918,10 +917,10 @@
     <MESSAGE value="досрок" />
     <MESSAGE value="вар" />
     <MESSAGE value="24" />
-    <MESSAGE value="вариант" />
     <MESSAGE value="15" />
     <MESSAGE value="12" />
     <MESSAGE value="задания" />
-    <option name="LAST_COMMIT_MESSAGE" value="задания" />
+    <MESSAGE value="вариант" />
+    <option name="LAST_COMMIT_MESSAGE" value="вариант" />
   </component>
 </project>
