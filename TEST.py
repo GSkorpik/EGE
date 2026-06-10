@@ -1,6 +1,11 @@
+from sys import*
+setrecursionlimit(200000)
 
-f='152535456575859'
-s=f.split('5')
-s = ''.join(s[0:5])
 
-print(s)
+def f(n):
+    if n<10:
+        return 1
+    else:
+        return (n+3)*f(n-3)
+
+print((f(247563)//519-477*f(247560))//f(247557))
