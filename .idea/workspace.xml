@@ -5,8 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0be22-965b-4859-a101-7ea614250659" name="Changes" comment="24">
-      <change afterPath="$PROJECT_DIR$/24/299.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/332.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27-3a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/27-3b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/10.odt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/3.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Варианты/10_06/9.ods" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
     </list>
@@ -455,11 +475,11 @@
       <recent name="D:\ЕГЭ инфа\5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ЕГЭ инфа\Варианты\10_06" />
       <recent name="D:\ЕГЭ инфа\Варианты\27_05" />
       <recent name="D:\ЕГЭ инфа\Варианты\21_05" />
       <recent name="D:\ЕГЭ инфа\Варианты\сборник 1" />
       <recent name="D:\ЕГЭ инфа\Варианты\probnik" />
-      <recent name="D:\ЕГЭ инфа\Варианты\sradgrad\may" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -482,14 +502,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726401718524</updated>
-    </task>
-    <task id="LOCAL-00066" summary="13">
-      <option name="closed" value="true" />
-      <created>1770557688459</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1770557688459</updated>
     </task>
     <task id="LOCAL-00067" summary="13 справочник">
       <option name="closed" value="true" />
@@ -875,7 +887,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780207035961</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="24">
+      <option name="closed" value="true" />
+      <created>1781066312710</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1781066312710</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

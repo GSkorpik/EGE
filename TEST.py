@@ -1,11 +1,6 @@
-from sys import*
-setrecursionlimit(200000)
 
-
-def f(n):
-    if n<10:
-        return 1
-    else:
-        return (n+3)*f(n-3)
-
-print((f(247563)//519-477*f(247560))//f(247557))
+x=123
+f='0123456789'
+for i in range(len(f)-8):
+    f1=f[i:i+9]
+    print(f1)
