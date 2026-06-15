@@ -1,4 +1,4 @@
-f=open('27-3b.txt')
+f=open('27-3a.txt')
 f.readline()
 
 data=[]
