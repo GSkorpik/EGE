@@ -1,6 +1,8 @@
 from turtle import *
 #goto(0,0) начальное положение по умолчанию
 k=30
+tracer(0)
+screensize(10000,10000)
 for i in range (1):
     p = pos()   # считываем текущие координаты черепашки
     print(p)
@@ -16,3 +18,4 @@ for x in range(0, 12):
   for y in range(-5, 8):
     goto(x*k, y*k)
     dot(4,"red")
+exitonclick()
